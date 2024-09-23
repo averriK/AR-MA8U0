@@ -35,7 +35,7 @@ m1.ui <- function(id, height = "650px") {
         tabsetPanel(
           tabPanel("pH (day)", highchartOutput(ns("TS_pH_day"), height = height)),
           tabPanel("pH (season)", highchartOutput(ns("TS_pH_season"), height = height)),
-          tabPanel("Q&pH (month)", highchartOutput(ns("TS_pH_flow_month"), height = height)), #tabPanel
+          #tabPanel("Q&pH (month)", highchartOutput(ns("TS_pH_flow_month"), height = height)), #tabPanel
           tabPanel("Summary (month)", highchartOutput(ns("CP_pH_month"), height = height)),
           tabPanel("Summary (location)", highchartOutput(ns("CP_pH_station"), height = height))
         )
