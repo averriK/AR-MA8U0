@@ -1,0 +1,51 @@
+# Integridad estructural
+
+## Alcance y objetivos
+
+La presente etapa del estudio trata sobre la revisión de la integridad estructural del hormigón de la obturación, y de los anclajes del sistema sostenimiento, a partir de datos históricos de reportes de visita, fotografías y videos. El objetivo de esta etapa consiste en evaluar si la obturación ha sufrido daños estructurales o de estabilidad, y si los sistemas de impermeabilización y sostenimiento han cumplido con los objetivos de diseño.
+
+## Plan de Monitoreo del tunel
+
+En marzo de 2018 Golder realizó una inspección al túnel ya obturado y observó que el sostenimiento y la estabilidad del túnel en general no eran una preocupación. Se propuso complementar el plan de monitoreo en curso con las siguientes actividades:
+
+-   Inspección del shotcrete
+-   Inspección de pernos de sostenimiento
+-   Inspección de afloramientos de agua
+
+Barrick realizó estas inspecciones en forma periódica, habiéndose realizado 80 inspecciones en 2018, 40 durante 2019, 37 en 2020, 43 en 2021, 43 en 2022, 43 en 2023 y 23 a Julio de 2024. Paralelamente se realizaron los registros de caudal y presiones. El ingeniero Roberto Mejibar realizó una inspección al túnel en Junio de 2018 donde recomendó reparar el sostenimiento con pernos fibra de y malla de poli´ster en dos sectores puntuales en una extensión de 40m (Ver parágrafo 2.4). Estos trabajos se llevaron a cabo entre el 2 de Noviembre y el 16 de Diciembre de 2018. Realizó cinco inspecciones más con frecuencia aproximadamente anual entre Marzo de 2019 y Noviembre de 2023 donde se destacan principalmente las siguientes conclusiones y/o recomendaciones:
+
+-   Notable reducción de caudales y secado de paredes entre el brocal y el tapón y sostenimiento estable que permitirá al menos 5 años de inspecciones sin intervención ([Marzo 2019](refs/20190321 Reporte de Obturacion de Tunel Marcelo.pdf)).\
+-   Se observaron barros de coloración marrón y negra en el frente expuesto del tapón, procedentes del macizo rocoso y se realizaron trabajos de limpieza con hidrolavado, encontrándose el hormigón de la superficie del tapón en buenas condiciones ([Octubre 2019](refs/20191022 Reporte_Obturacion_Tunel_Mejibar.pdf)).\\
+-   El comportamiento de la interfaz hormigón/macizo en el tapón se observa funcionando plenamente ya que no se visualiza flujo de agua en ninguna posición del contorno ([Agosto 2021](refs/20210805 Inspección Túnel Marcelo Mejibar.pdf)).
+-   La acumulación de barros en el tapón es escasa y se registra una leve acumulación respecto de la inspección del año anterior. Si bien se han observado aumentos de presión en los piezómetros debido a un incremento del aporte del deshielo de superficie, no se han detectado aumentos en los flujos aguas abajo del tapón, por lo que se demuestra el buen funcionamiento del tapón ([Diciembre 2022](refs/20221220 Inspección Túnel Marcelo Ing. Mejbar.pdf)).\
+-   Se cuantifica la tasa de deposición de barros sobre el tapón y se determina que es relativamente baja y no reviste importancia. Se reporta finalmente que el sistema de Obturación del Túnel Marcelo se encuentra funcionando de manera adecuada y efectiva de acuerdo a los objetivos buscados por el proyecto ([Noviembre 2023](refs/20231127 Inspección Túnel Marcelo Ing Mejibar.pdf))
+
+### Presión hidrostática por encima de los niveles estimados
+
+La presión máxima medida desde el cierre de válvulas se detectó en el piezómetro de la solera aguas arriba (PA02) durante el transitorio posterior al cierre de válvulas y fue de 95 mca. Posteriormente se detectaron ondulaciones de presiones coincidentes los máximos con los periodos de deshielo llegando a valores de hasta 91.3 mca. Este valor implica una presión media en la altura del tapón de 89.3 mca. 
+
+
+
+------------------------------------------------------------------------
+
+*Estos valores no representan un peligro para la estanqueidad del tapón debido que las probabilidades de falla son aún despreciables para una presion media un 12% mayor a la de diseño y que además no resulta permanente. Además, en las sucesivas inspecciones al tapón enumeradas en el parágrafo XX no se han detectado filtraciones en la interfaz entre el tapón y el macizo.*
+
+------------------------------------------------------------------------
+
+#### Falla de sistema de válvulas:
+
+En las sucesivas inspecciones al tapón no se han detectado pérdidas ni fallas en el funcionamiento del sistema de válvulas.
+
+### Caudales
+
+Los caudales medidos desde la obturación del túnel en 2018 alcanzaron un valor máximo de 13.2 l/s observado en las semanas posteriores durante el estado transitorio. Este valor es menor al esperado por el modelo conservador de 30 l/s indicado como referencia en las respuestas a las actas #112 y #113.
+
+Una vez estabilizado el sistema, las mediciones de los caudales salientes del túnel disminuyeron a un rango entre 3.8 y 5.1 l/s. Se observa que este rango no se ve afectado por variaciones del flujo en el punto de aporte del Turbio (LA-1A) debido a factores estacionales.
+
+### Presiones hidroståaticas
+
+Las presiones hidrostáticas máximas medidas se encuentran en el rango de lo previsto por los diversos modelos hidrogeológicos. La presión máxima medida desde el cierre de válvulas se detectó en el piezómetro de la solera aguas arriba (PA02) durante el transitorio posterior al cierre de válvulas y fue de 95 mca. Posteriormente se detectaron ondulaciones de presiones coincidentes los máximos con los periodos de deshielo llegando a valores de hasta 91.3 mca. Este valor implica una presión media en la altura del tapón de 89.3 mca.
+
+Estos valores no representan un peligro para la estabilidad ni la esanqueidad del tapón debido que las probabilidades de falla estática son aún despreciables para una presion media un 12% mayor a la de diseño y que además no resulta permanente. Barrick ha llevado adelante un plan de monitoreo del sostenimiento, afloramiento de agua y de presiones de frecuencia semanal con auditorías externas de frecuencia aproximadamente anual.
+
+Los resultados de estas auditorías han sido favorables en lo que respecta a la integridad del concreto y la ausencia de filtraciones en la interfaz indicando en cada una de ellas que el sistema de Obturación del Túnel Marcelo se encuentra funcionando de manera adecuada y efectiva de acuerdo a los objetivos buscados por el proyecto.

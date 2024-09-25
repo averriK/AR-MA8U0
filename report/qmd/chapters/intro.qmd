@@ -1,0 +1,27 @@
+# Introducción
+
+## Alcances y Objetivos
+
+El presente documento ha sido elaborado por solicitud de BEASA, en el marco de un requerimiento realizado a BEASA por el Ministerio de Minería del Gobierno de San Juan (La Autoridad). En dicho requerimiento, La Autoridad solicita a BEASA lo siguiente:
+1)	La entrega, por parte de BEASA, de datos actualizados sobre el monitoreo de la calidad del agua, a fin de evaluar el impacto sobre la calidad del agua del río Las Taguas que ejerce el Túnel Marcelo (localizado dentro del Proyecto Lama de BEASA).
+2)	La verificación, a partir de los datos de monitoreo disponibles actualmente, de las predicciones del modelo presentadas en un memorando de Piteau Associates de marzo de 2018, según el cual el cierre del Túnel Marcelo con un tapón y el cese del tratamiento del agua en la boca del Túnel no implicarían un impacto significativo en la calidad del agua del río Las Taguas. 
+## Referencias
+
+- [Reporte de Diseño Ejecutivo Tapón, SRK Consulting](BEASA12210-2211-C-RP-0018-5.pdf)
+- [Informe Sostenimiento 20180712 Exp 414-657-B-04](20180712 Exp 414-657-B-04.pdf)
+- [Marcelo Tunnel Inspection, Golder - 03/2018](refs/20180320 Inspection Tunnel Golder Version English.pdf)
+- [Reporte Obturación Túnel Marcelo #1 - 03/2019](refs/20190321 Reporte de Obturacion de Tunel Marcelo.pdf)
+- [Reporte Obturación Túnel Marcelo #2 - 10/2022](refs/20191022 Reporte_Obturacion_Tunel_Mejibar.pdf)
+- [Reporte Obturación Túnel Marcelo #3 - 08/2021](refs/20210805 Inspección Túnel Marcelo Mejibar.pdf)
+- [Reporte Obturación Túnel Marcelo #4 - 12/2022](refs/20221220 Inspección Túnel Marcelo Ing. Mejbar.pdf)
+- [Reporte Obturación Túnel Marcelo #5 - 11/2023](refs/20231127 Inspección Túnel Marcelo Ing Mejibar.pdf)
+- [Plan de Acción Suspensión Temporal Construcción Túnel](refs/51-2040-07-33-1 Estado Túnel a Suspensión Temporaria.pdf)
+- [Evaluación actualizada, túnel Marcelo, calidad de agua](refs/4747TM03-Túnel_Marcelo_Nota_Tecnica_ES_20221027.pdf)
+- [Estimación de caudales de infiltración al túnel Marcelo](refs/Informe 52-2040-06-94-0.pdf)
+- [Revisión del contexto hidrogeológico del túnel](refs/BEASA12210-2211-C-RP-0003-A Revisión del contexto hidrogeológico del Túnel Lama.pdf)
+- [Informe de monitoreo de calidad de agua del IDIH](refs/Calidad_Agua_LAMA_2012-2023-final.pdf)
+- [Plan de acción de emergencia y desvío de ríos](20170904 Exp 414-657-B-04 Actualiza Plan de Accion de Emergencias para la Obra Tapon Tunel Marcelo y Sist de Desvio de Rios.pdf)
+- [Cédula: suspensión provisoria del tratamiento con cal del agua del túnel](20190408 Cédula - MM Exp N° 1100-5074-B12 Cond 109.pdf)
+- [Respuesta a Cédula de suspensión provisoria del tratamiento con cal del agua del túnel](20190410 exp 1100-0504-B-12 Respuesta a Cédula - Suspensión agregado de cal.pdf)
+- [Respuesta a requerimiento y presentación de informe de Pitteau](20221027 exp 414-657 - Contesta requerim - Adj informe técnico.pdf)
+- [Respuesta a requerimientos de la Comisión Interdisciplinaria Evaluadora Ambiental](20230130 1404 BEASA 414-0657.pdf)

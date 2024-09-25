@@ -861,8 +861,8 @@ m1.server <- function(id) {
           yAxis.label = yAxis.label,
           xAxis.label =xAxis.label,
           group.label = group.label,
-          band1.label=band1.label,
-          band2.label=band2.label,
+          band1.label="Tunnel Open",
+          band2.label="Tunnel Plugged",
           tip.formatter = tip.formatter,
           plot.bands = TRUE,
           plot.theme=hc_theme_smpl())

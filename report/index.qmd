@@ -7,31 +7,33 @@ bibliography: references.bib
 format: pdf-elsevier
 ---
 
-# Introducción
- **En este capitulo tenemosq que escribir cual es el proposito del estudio para con la Autoridad**
- 
-# Antecedentes (Autores: Alejandro, Fermín)
-
-## Alcance y objetivos
-
-El objeto de este capítulo se enfoca en un análisis de antecedentes hidrogeológicos, hidráulicos, geotécnicos y sísmicos del proyecto y las principales hipótesis asumidas para el diseño de la obturación, a partir de los diferentes estudios efectuados entre 2014 y 2016. El objetivo de esta etapa será identificar los parámetros fundamentales de desempeño esperables de la obturación, tales como las presiones máximas de diseño, y los caudales máximos residuales que se esperan en la obturación, de acuerdo al diseño original efectuado por SRK en 2015 y el diseño final revisado y aprobado por Barrick en 2016.
-
-# Caudales y presiones hidrostáticas (Autores: Alejandro, Fermin)
-
-## Alcance y objetivos
-
-El objeto de esta sección se enfoca en la recopilación y el análisis exhaustivo de los datos históricos de monitoreo de presiones hidrostáticas, caudales, y eventos climáticos que fueron registrados durante los últimos siete años por el equipo de Medio Ambiente de Barrick. El objetivo de esta etapa será desarrollar un modelo de visualización (dashboard) que permita identificar y correlacionar los eventos y desvíos principales durante los últimos siete años, y evaluar si los datos de monitoreo son consistentes con las hipótesis de diseño asumidas para la obturación.
-
-# Calidad de Aguas (Autores: Camilo, ALejandro)
-
-## Alcance y objetivos
-
-El objeto de esta sección se enfoca en el análisis de los datos disponibles de calidad del agua obtenidos en pozos de monitoreo de agua superficial y subterránea aguas arriba y aguas abajo de la obturación. El objetivo de esta etapa consiste en evaluar el desempeño en términos de su impacto en los parámetros de calidad de agua aguas arriba y aguas abajo de la obturación, y poder correlacionar los desvíos respecto de la línea base con eventos climáticos, operacionales o de mantenimiento de la obturación.
-
-# Integridad estructural y estabilidad geotécnica (Autores: Fermin, Alejandro)
-
-## Alcance y objetivos
-
-La presente etapa del estudio trata sobre la revisión de la integridad estructural del hormigón de la obturación, y de los anclajes del sistema sostenimiento, a partir de datos históricos de reportes de visita, fotografías y videos. El objetivo de esta etapa consiste en evaluar si la obturación ha sufrido daños estructurales o de estabilidad, y si los sistemas de impermeabilización y sostenimiento han cumplido con los objetivos de diseño. El análisis de la integridad estructural del hormigón y el desempeño el sistema de impermeabilización será realizado junto a Fermín Garate, consultor principal de SRK con más de 16 años de experiencia en diseño y construcción de obras de hormigón y sistemas de impermeabilización en proyectos mineros en Argentina y Chile, y además ha supervisado todas las etapas de la construcción del sistema impermeabilización de la obturación.
 
 
+{{< include qmd/chapters/intro.qmd  >}}
+
+
+
+{{< include qmd/chapters/background.qmd  >}}
+
+
+
+
+{{< include qmd/chapters/data.qmd  >}}
+
+
+
+
+
+{{< include qmd/chapters/structural.qmd  >}}
+
+
+
+
+
+{{< include qmd/chapters/water.qmd  >}}
+
+
+
+# Desempeño
+
+<!-- {{< include qmd/chapters/performance.qmd  >}} -->

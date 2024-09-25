@@ -18,8 +18,8 @@ source("_build/preRender.R")
 # .buildYAML(output_format=c("els-pdf"),output_dir=publishFolder)
 # quarto::quarto_render(input = "index.qmd",output_format = "els-pdf")
 # 
-.buildYAML(output_format=c("docx"),output_dir=publishFolder)
-quarto::quarto_render(input = "index.qmd",output_format = "docx")
+# .buildYAML(output_format=c("docx"),output_dir=publishFolder)
+# quarto::quarto_render(input = "index.qmd",output_format = "docx")
 
 .buildYAML(output_format=c("html"),output_dir=publishFolder)
 quarto::quarto_render(input = "index.qmd",output_format = "html")
