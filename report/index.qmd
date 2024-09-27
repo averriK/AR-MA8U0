@@ -4,36 +4,37 @@ params:
   exportImages: true
   background: white
 bibliography: references.bib
-format: pdf-elsevier
+css: styles.css
 ---
 
 
+```{r setup,include=FALSE}
+source("R/setup.R")
+source("R/global.R")
 
-{{< include qmd/chapters/intro.qmd  >}}
+if(!knitr::is_html_output()){
+  LIB <- "flextable"
+  FONT.SIZE.BODY <- 10
+  FONT.SIZE.HEADER <- 10
+} else {
+  LIB <- "gt"
+  FONT.SIZE.BODY <- 11
+  FONT.SIZE.HEADER <- 12
+}
+
+```
+
+{{< include qmd/_introduccion.qmd  >}}
+
+{{< include qmd/_antecedentes.qmd  >}}
+
+<!-- {{< include qmd/data.qmd  >}} -->
+
+{{< include qmd/_integridad.qmd  >}}
+
+{{< include qmd/_caudales.qmd  >}}
 
 
+{{< include qmd/_calidad.qmd  >}}
 
-{{< include qmd/chapters/background.qmd  >}}
-
-
-
-
-{{< include qmd/chapters/data.qmd  >}}
-
-
-
-
-
-{{< include qmd/chapters/structural.qmd  >}}
-
-
-
-
-
-{{< include qmd/chapters/water.qmd  >}}
-
-
-
-# Desempeño
-
-<!-- {{< include qmd/chapters/performance.qmd  >}} -->
+<!-- {{< include qmd/performance.qmd  >}} -->

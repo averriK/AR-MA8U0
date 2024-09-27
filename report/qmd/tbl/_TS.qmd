@@ -1,0 +1,45 @@
+
+:::  {.panel-tabset  .content-hidden when-format=“docx”}
+
+#### mean
+
+```{r include=knitr::is_html_output()}
+p_TARGET <- "mean"
+source("qmd/tbl/tbl_TS.R")
+TBL
+```
+
+
+#### 50%
+```{r include=knitr::is_html_output()}
+p_TARGET <- 0.50
+source("qmd/tbl/tbl_TS.R")
+TBL
+```
+
+#### 84% $(+1\ \sigma)$
+```{r include=knitr::is_html_output()}
+p_TARGET <- 0.84
+source("qmd/tbl/tbl_TS.R")
+TBL
+```
+#### 90% $(+1.28\ \sigma)$
+
+```{r include=knitr::is_html_output()}
+p_TARGET <- 0.90
+source("qmd/tbl/tbl_TS.R")
+TBL
+```
+
+#### 95% $(+1.65\ \sigma)$
+```{r include=knitr::is_html_output()}
+p_TARGET <- 0.95
+source("qmd/tbl/tbl_TS.R")
+TBL
+```
+
+:::
+
+
+
+

@@ -5,7 +5,7 @@ format:
     toc: true
     toc-depth: 4
     toc-location: left
-    number-sections: false
+    number-sections: true
     mainfont: Arial
     fontsize: 12pt
     link-citations: true
@@ -41,10 +41,10 @@ format:
     chalkboard: true
 
   docx: 
-    output-file: article.docx
+    output-file: index.docx
     reference-doc: _build/styles.docx
   els-pdf: 
-    output-file: article.pdf
+    output-file: index.pdf
     keep-tex: true
     journal:
       name:  

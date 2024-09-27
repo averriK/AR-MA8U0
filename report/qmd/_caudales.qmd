@@ -1,0 +1,45 @@
+## Caudales {#sec-FLOW}
+
+El objetivo de este capítulo consiste en evaluar el desempeño de la obturación en términos del impacto en los caudales aguas arriba y aguas abajo de la obturación, y poder correlacionar los desvíos respecto de la línea base con eventos climáticos, operacionales o de mantenimiento de la obturación.
+
+
+### Estaciones de monitoreo {#sec-SYSLOC}
+
+- **LA-1A**: se ubica sobre el tramo superior del arroyo Turbio, inmediatamente aguas arriba del portal del túnel y del área de tratamiento de agua ácida y control de pH que estuvo en funcionamiento durante el periodo de túnel abierto (2011-2013). 
+
+- **MAR-1**: está ubicada en el portal del túnel y capta el agua drenada por el túnel, previamente al sistema de tratamiento de control del pH. El agua monitoreada en esta estación proviene del sistema del arroyo Turbio y del macizo rocoso, posiblemente con modificaciones químicas menores debidas al cemento utilizado en el revestimiento interno del túnel.
+
+- **TUN-1**: se localiza inmediatamente a la salida del sistema de tratamiento de control del pH y recibe el drenaje del túnel luego de ser tratado con cal apagada (Ca (OH)2). Estuvo activa hasta la suspensión del tratamiento del agua con cal apagada, el 5 de abril de 2019.
+
+- **LA-8**: se ubica sobre el cauce del río Turbio, inmediatamente antes de la desembocadura del río de Las Taguas. En esta estación se monitorea actualmente el agua proveniente de los arroyos Canito y Turbio, así como el agua residual proveniente del túnel luego de su cierre. 
+
+- **SW-9**: es la primera estación de monitoreo sobre el río de Las Taguas que recibe la descarga desde las cuencas de Canito y Turbio (ya monitoreada en LA-8). 
+
+- **LA-16**: se ubica sobre el río Las Taguas, aguas abajo de la confluencia con el arroyo de Los Amarillos. Es el punto de cumplimiento legal del proyecto Lama.
+
+
+Algunos cursos de agua en los sistemas Canito y Turbio fueron afectados por desvíos relacionados a obras de manejo de agua, lo cual se vio reflejado en su registro de monitoreo. Las modificaciones de los cursos de agua en las cuencas de Canito y Turbio comenzaron en enero de 2014 y estuvieron vigentes hasta noviembre de 2020. Un resumen de la configuración de los sistemas de conducción de agua en las cuencas de Canito y Turbio, antes y después de noviembre/diciembre de 2020, puede encontrarse en el informe del IDIH (2024), el cual sintetiza los resultados del monitoreo de calidad de agua en el proyecto Lama desde enero de 2012 hasta diciembre de 2023. 
+
+### LA-1A (Río Turbio), MAR-1 y TUN-1 (Túnel)
+
+El caudal del arroyo Turbio en este tramo disminuyó durante la excavación debido al “efecto dren” del túnel, el cual drenó una parte importante del caudal superficial y subálveo del arroyo, así como el agua de almacenamiento del acuífero de fracturas del macizo rocoso. El caudal en LA-1A es altamente variable durante el día debido a que este arroyo tiene una alta dependencia de los deshielos en su tramo superior, por lo que los puntos en el gráfico representan un promedio diario. El caudal en este punto se mantuvo relativamente bajo, con registros promedio entre 5 y 20 L/s, a excepción de un evento con caudales promedio de hasta 170 L/s entre noviembre de 2015 y enero de 2016, debido a precipitaciones intensas en invierno de 2015 registradas en la estación de Barreal. Luego del cierre de las válvulas del tapón del túnel en enero de 2018, el caudal se incrementó fuertemente  por recuperación del caudal drenado y luego un decrecimiento más suave hasta caudales promedio en el orden de 30 L/s. 
+
+El caudal en MAR-1 evolucionó en picos que se daban cuando la excavación del túnel encontraba una zona de mayor conductividad hidráulica (e.g. zona de falla o de mayor fracturamiento) y valles que se daban cuando dicho caudal se drenaba y disminuía el nivel piezométrico. El caudal en TUR-1 tuvo casi la misma serie que el caudal en MAR-1.
+
+### LA-8 (Río Turbio)
+
+El caudal estuvo en baja desde los primeros registros y se mantuvo en valores relativamente bajos (~70-100 L/s) entre 2014 y fines de 2020, cuando LA-8 no recibía agua superficial de la cuenca del río Turbio. El caudal presenta una tendencia decreciente desde el cierre de las válvulas y se encuentra en tendencia creciente desde la reconexión de las cuencas de Canito y Turbio, con la mayor parte de los valores en el rango 100-175 L/s, similares a los medidos al principio del registro. Se registraron los eventos de alto caudal relacionados a las precipitaciones nivales durante los inviernos de 2015 y 2017. Los caudales en el portal del túnel, registrados actualmente en MAR-1, disminuyeron súbitamente luego del cierre de válvulas del tapón, con un valor máximo de 13 L/s inmediatamente luego del cierre y una estabilización en torno a 5 L/s.
+
+### LA-16 y SW-9 (Las Taguas)
+
+Los caudales en SW-9 y LA-16 presentan series temporales muy similares, tanto en valores de caudal como en evolución. Se registraron los picos de alto caudal (en el orden de 3000-3500 L/s) relacionados a los inviernos de 2015 y 2017, y uno intermedio entre octubre y diciembre de 2016. Los caudales se mantuvieron relativamente altos (~1000-1500 L/s) luego del cierre de las válvulas en enero de 2018 y mostraron una tendencia decreciente desde aproximadamente septiembre de 2019, hasta un rango relativamente amplio de 350-900 L/s, similar al registrado previamente a la apertura del túnel, aunque sin una relación directa con dicho cierre.
+
+::: {.content-hidden when-format=“docx”}
+{{< include qmd/fig/_flow.qmd >}}
+:::
+
+### Resumen
+
+- La obturación del túnel Marcelo es un mecanismo eficiente para la contención del agua que drenaría a túnel abierto, manteniendo caudales residuales (~5 L/s) de aproximadamente un 25% de los permitidos por La Autoridad (20 L/s), los cuales no se han visto afectados ni por variaciones en la presión hidrostática aguas arriba del tapón ni por variaciones en el caudal del arroyo Turbio.
+
+- Las variaciones relevantes y medibles en el caudal del río de Las Taguas, desde su punto de confluencia en LA-8, están relacionadas principalmente a años hidrológicos de distinta característica y no al desarrollo del túnel ni a su posterior obturación.

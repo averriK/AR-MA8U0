@@ -24,7 +24,6 @@ get_month_year <- function(x) {
 }
 
 
-
 # Outlier detection routine
 tagOutliers <- function(x, COL) {
   # IQR
@@ -58,11 +57,6 @@ tagOutliers <- function(x, COL) {
   
   return(DT)
 }
-
-
-
-
-
 
 # Main function
 buildDataset <- function(chemical_name, fraction=NULL, matrix_code, mass, year_min=NULL, year_max=NULL, sys_loc_code=NULL,FLOW_ID="Flujo") {
@@ -130,11 +124,6 @@ buildDataset <- function(chemical_name, fraction=NULL, matrix_code, mass, year_m
   
   stop("Invalid mass flag!")
 }
-
-# Example usage:
-# result <- process_data("Calcio", "T", "SW", WL, "m", 2010, 2024, sys_loc_code)
-
-
 
 buildPlot.categorical <- function(
     data,
@@ -411,7 +400,6 @@ buildPlot.timeseries.combined<- function(
     data,
     id1,
     id2,
-    
     plot.subtitle = "",
     plot.title = "",
     y1Axis.label = "Y1",

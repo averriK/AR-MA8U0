@@ -1,0 +1,72 @@
+
+:::  {.panel-tabset  .content-hidden when-format=“docx” .content-width-wide}
+
+
+
+### LA-1A,MAR-1,TUN-1
+
+```{r include=knitr::is_html_output()}
+chemical_name <- "Hierro"
+sys_loc_code <- c("LA-1A","MAR-1","TUN-1")
+matrix_code = "SW"
+year_min <- 2010
+year_max <- 2024
+fraction <- "T"
+mass <- "m"
+
+plot.type <- c("point","average")
+time_width <- 30
+source("qmd/fig/TS_day.R")
+
+PLOT
+```
+
+
+### LA-8
+
+```{r include=knitr::is_html_output()}
+chemical_name <- "Hierro"
+sys_loc_code <- c("LA-8")
+matrix_code = "SW"
+year_min <- 2010
+year_max <- 2024
+fraction <- "T"
+mass <- "m"
+
+plot.type <- c("point","average")
+time_width <- 30
+source("qmd/fig/TS_day.R")
+
+PLOT
+
+```
+
+
+### LA-16,SW-9
+
+```{r include=knitr::is_html_output()}
+
+  
+chemical_name <- "Hierro"
+sys_loc_code <- c("LA-16","SW-9")
+matrix_code = "SW"
+year_min <- 2010
+year_max <- 2024
+fraction <- "T"
+mass <- "m"
+
+plot.type <- c("point","average")
+time_width <- 30
+source("qmd/fig/TS_day.R")
+
+PLOT
+
+```
+
+
+:::
+
+
+
+
+

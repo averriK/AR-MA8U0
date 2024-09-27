@@ -276,7 +276,6 @@ m1.server <- function(id) {
       
       # build FLOW timeseries ----
       ts2 <- reactive({
-        
         chemical_name <- "Flujo"
         sys_loc_code <- req(input$sys_loc_code)
         matrix_code = req(input$matrix_code)

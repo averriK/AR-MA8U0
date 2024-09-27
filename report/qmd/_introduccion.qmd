@@ -1,0 +1,43 @@
+## Introducción
+
+
+El presente documento ha sido elaborado por solicitud de BEASA, en el marco de un requerimiento realizado a BEASA por el Ministerio de Minería del Gobierno de San Juan (La Autoridad). En dicho requerimiento, La Autoridad solicita a BEASA lo siguiente:
+
+- La entrega, por parte de BEASA, de datos actualizados sobre el monitoreo de la calidad del agua, a fin de evaluar el impacto sobre la calidad del agua del río Las Taguas que ejerce el Túnel Marcelo (localizado dentro del Proyecto Lama de BEASA).\
+
+- La verificación, a partir de los datos de monitoreo disponibles actualmente, de las predicciones del modelo presentadas en un memorando de Piteau Associates de marzo de 2018, según el cual el cierre del Túnel Marcelo con un tapón y el cese del tratamiento del agua en la boca del Túnel no implicarían un impacto significativo en la calidad del agua del río Las Taguas. \
+
+
+### Organización, Alcances y Objetivos
+
+El capítulo [-@sec-ANT] resume las principales hipótesis asumidas para el diseño de la obturación, a partir de los diferentes estudios efectuados entre 2014 y 2016. El objetivo de esta etapa será identificar los parámetros fundamentales de desempeño esperables de la obturación, tales como las presiones máximas de diseño, y los caudales máximos residuales que se esperan en la obturación, de acuerdo al diseño original efectuado por SRK en 2015 y el diseño final revisado y aprobado por Barrick en 2016.
+
+El capítulo [-@sec-INTEG] presenta una revisión de la integridad estructural del hormigón de la obturación y los anclajes del sistema sostenimiento, a partir de datos históricos de reportes de visita, fotografías y videos. El objetivo de esta etapa consiste en evaluar si la obturación ha sufrido daños estructurales o de estabilidad, y si los sistemas de impermeabilización y sostenimiento han cumplido con los objetivos de diseño.
+
+Los capítulos [-@sec-QUAL] y [-@sec-FLOW] se enfocan en el análisis de los datos disponibles de calidad del agua obtenidos en estaciones de monitoreo de agua superficial y subterránea aguas arriba y aguas abajo de la obturación, que se detallan en la sección [-@sec-SYSLOC]. El objetivo de estos capítulos consiste en evaluar el desempeño en términos de su impacto en los parámetros de calidad de agua aguas arriba y aguas abajo de la obturación, y poder correlacionar los desvíos respecto de la línea base con eventos climáticos, operacionales o de mantenimiento de la obturación.
+
+
+
+### Documentos de referencia
+
+Los siguientes documentos han sido utilizados como referencia para la elaboración del presente informe:
+
+- [Reporte de Diseño Ejecutivo Tapón, SRK Consulting](refs/BEASA12210-2211-C-RP-0018-5.pdf)\
+- [Informe Sostenimiento 20180712 Exp 414-657-B-04, Acta Barrick](refs/20180712 Exp 414-657-B.pdf)\
+- [Marcelo Tunnel Inspection, Golder](refs/20180320 Inspection Tunnel Golder Version English.pdf)\
+- [Reporte Obturacion Tunel Marcelo #1, Mejibar](refs/20190321_Mejibar.pdf)\
+- [Reporte Obturacion Tunel Marcelo #2,Mejibar](refs/20191022_Mejibar.pdf)\
+- [Reporte Obturacion Tunel Marcelo #3, Mejibar](refs/20210805_Mejibar.pdf)\
+- [Reporte Obturacion Tunel Marcelo #4, Mejibar](refs20221220_Mejibar.pdf)\
+- [Reporte Obturacion Tunel Marcelo #5, Mejibar](refs/20231127_Mejibar.pdf)\
+- [Evaluación actualizada, túnel Marcelo, calidad de agua](refs/4747TM03-Túnel_Marcelo_Nota_Tecnica_ES_20221027.pdf)\
+- [Estimación de caudales de infiltración al túnel Marcelo](refs/52-2040-06-94-0.pdf)\
+- [Revisión del contexto hidrogeológico del túnel](refs/BEASA12210-2211-C-RP-0003-A.pdf)\
+- [Informe de monitoreo de calidad de agua del IDIH](refs/Calidad Agua LAMA 2012-2023-final.pdf)\
+- [Plan de acción de emergencia y desvío de ríos](refs/20170904 Exp 414-657-B-04.pdf)\
+- [Cédula: suspensión provisoria del tratamiento con cal del agua del túnel](refs/20190408 -1100-5074-B12_Cond_109.pdf)\
+- [Respuesta a Cédula de suspensión provisoria del tratamiento con cal del agua del túnel](refs/20190410 exp 1100-0504-B-12.pdf)\
+- [Respuesta a requerimiento y presentación de informe de Pitteau](refs/20221027 exp 414-657.pdf)\
+- [Respuesta a requerimientos de la Comisión Interdisciplinaria Evaluadora Ambiental](refs/20230130 1404 BEASA 414-0657.pdf)\
+- [Informe Cierre de Valvulas Tunel Marcelo](refs/20180418 Exp 1100-0504-B-12.pdf)\
+
