@@ -1,8 +1,14 @@
-# Análisis de datos históricos
-## Objetivos
+## Datos históricos
 
-El objeto de esta sección se enfoca en la recopilación y el análisis exhaustivo de los datos históricos de monitoreo de presiones hidrostáticas, caudales, y eventos climáticos que fueron registrados durante los últimos siete años por el equipo de Medio Ambiente de Barrick. El objetivo de esta etapa será desarrollar un modelo de visualización (dashboard) que permita identificar y correlacionar los eventos y desvíos principales durante los últimos siete años, y evaluar si los datos de monitoreo son consistentes con las hipótesis de diseño asumidas para la obturación.
+El propoósito de esta etapa es presentar un modelo de visualización (dashboard) que permita identificar y correlacionar los eventos y desvíos principales durante los últimos siete años, y evaluar si los datos de monitoreo son consistentes con las hipótesis de diseño asumidas para la obturación.
 
-## Panel de datos en la nube
+El objeto de esta sección se enfoca en la recopilación, procesamiento y visualización  de los datos históricos de monitoreo de presiones hidrostáticas, caudales, y eventos climáticos que fueron registrados ddesde 2006 por el equipo de Medio Ambiente de Barrick. 
 
+### Recopilación y procesamiento de datos
+
+
+### Análisis y visualizacion
+
+
+####
 

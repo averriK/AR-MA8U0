@@ -20,7 +20,8 @@ El objetivo de este capítulo consiste en evaluar el desempeño de la obturació
 
 Algunos cursos de agua en los sistemas Canito y Turbio fueron afectados por desvíos relacionados a obras de manejo de agua, lo cual se vio reflejado en su registro de monitoreo. Las modificaciones de los cursos de agua en las cuencas de Canito y Turbio comenzaron en enero de 2014 y estuvieron vigentes hasta noviembre de 2020. Un resumen de la configuración de los sistemas de conducción de agua en las cuencas de Canito y Turbio, antes y después de noviembre/diciembre de 2020, puede encontrarse en el informe del IDIH (2024), el cual sintetiza los resultados del monitoreo de calidad de agua en el proyecto Lama desde enero de 2012 hasta diciembre de 2023. 
 
-![Esquema Actual del Sistema de manejo de Aguas a partir de diciembre 2020. Fuente: IDIH, 2024](images/aguas.png)
+![Esquema Actual del Sistema de manejo de Aguas a partir de diciembre 2020. Fuente: IDIH (2024), 2024](images/aguas.png)
+
 ### Fechas relevantes
 
 Las siguientes viñetas son una breve reseña de las fechas aproximadas de eventos que tienen relevancia en el análisis de monitoreo de calidad de agua, relacionado al túnel Marcelo y a su obturación.
@@ -62,16 +63,22 @@ Los caudales en SW-9 y LA-16 presentan series temporales muy similares, tanto en
 ::: {.content-hidden when-format=“docx”}
 {{< include qmd/fig/_flow.qmd >}}
 :::
+
+La figura anterior, presenta la serie temporal de caudales (en L/s) para el período comprendido desde el cierre de las válvulas a la fecha. Otras visualizaciones de caudales basadas en eventos estacionales, mensuales o anuales, pueden obtenerse en la [aplicación de visualización de datos de monitoreo](https://averri.shinyapps.io/ARMA8U0/). 
+
+
 ### Niveles piezométricos
 
 Las presiones hidrostáticas máximas medidas se encuentran en el rango previsto por los diversos modelos hidrogeológicos.  La presión máxima medida desde el cierre de válvulas se detectó en el piezómetro de la solera aguas arriba (PA02) durante el transitorio posterior al cierre de válvulas y fue de 95 mca. Posteriormente se detectaron ciclos estacionales de presiones correlacionados con los periodos de deshielo. La máxima presión registrada por los piezómetros representa algo menos del 40% de la carga 
-última de servicio (240 m) y no constituye un escenario de riesgo. Durante el plan de monitoreo de integridad estructural (ver [-@sec-INTEG]) no se han detectado pérdidas ni fallas en el funcionamiento del sistema de válvulas desde su construcción a la fecha.\
+última de servicio (240 m) y no constituye un escenario de riesgo. Durante el plan de monitoreo de integridad estructural (ver [-@sec-INTEG]) no se han detectado pérdidas ni fallas en el funcionamiento del sistema de válvulas desde su construcción a la fecha.
+
 
 
 ::: {.content-hidden when-format=“docx”}
 {{< include qmd/fig/_pressure.qmd >}}
 :::
 
+La figura anterior, presenta la serie temporal de niveles piezométricos (en m.c.a) para el período comprendido desde el cierre de las válvulas a la fecha. Otras visualizaciones de niveles piezométricos, basadas en eventos estacionales, mensuales o anuales, pueden obtenerse en la [aplicación de visualización de datos de monitoreo](https://averri.shinyapps.io/ARMA8U0/) 
 
 ### Conclusiones
 

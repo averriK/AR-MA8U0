@@ -33,6 +33,10 @@ En cuanto a la carga de solutos, las series temporales de ambas estaciones muest
 {{< include qmd/fig/_sulfatos.qmd >}}
 :::
 
+
+La figura anterior, presenta la serie temporal de la carga metálica de sulfatos (en kg/hr) desde el año 2010 a la fecha. Otras visualizaciones de concentraciones o cargas metálicas de sulfatos, basadas en series estacionales, mensuales o anuales, pueden obtenerse en la [aplicación de visualización de datos de monitoreo](https://averri.shinyapps.io/ARMA8U0/) 
+
+
 ### Acidez de las aguas (pH)
 
 Durante la etapa de túnel abierto, el pH registrado en la estación TUN-1 fue muy variable de acuerdo con el ritmo de adición de cal apagada, aunque en general por encima de un valor de 5. En el caso del arroyo Turbio (**LA-1A**), el valor más frecuente estuvo entre 3 y 3,5, estabilizándose a un valor más cercano a 3 luego del cierre de las válvulas del tapón, posiblemente debido a un aumento del caudal y menor impacto de los deshielos en este parámetro**. En general, el pH en el portal del túnel (MAR-1) estuvo y se mantiene ligeramente por encima del pH del arroyo Turbio, posiblemente debido a una cierta neutralización por el cemento utilizado en el revestimiento del túnel o un mayor impacto de dilución debida a deshielos.
@@ -46,6 +50,7 @@ El pH en SW-9 y LA-16 se presentó ampliamente variable a lo largo de todo el re
 {{< include qmd/fig/_pH.qmd >}}
 :::
 
+La figura anterior, presenta la serie temporal del pH(en unidades de pH) desde el año 2010 a la fecha. Otras visualizaciones del pH basadas en series estacionales, mensuales o anuales, pueden obtenerse en la [aplicación de visualización de datos de monitoreo](https://averri.shinyapps.io/ARMA8U0/) 
 
 ### Aluminio
 
@@ -64,6 +69,8 @@ Los picos en carga de aluminio coinciden aproximadamente con picos en el caudal 
 {{< include qmd/fig/_aluminio.qmd >}}
 :::
 
+La figura anterior, presenta la serie temporal de carga metálica de aluminio (en kg/hr) desde el año 2010 a la fecha. Otras visualizaciones de concentraciones o cargas metálicas de aluminio, basadas en series estacionales, mensuales o anuales, pueden obtenerse en la [aplicación de visualización de datos de monitoreo](https://averri.shinyapps.io/ARMA8U0/) 
+
 ### Hierro
 
 La concentración de hierro fue variable en LA-1A (~200-500 mg/L), con mediciones más espaciadas aproximadamente entre febrero de 2014 y diciembre de 2017. A partir del cierre de las válvulas del tapón del túnel, se observa una tendencia creciente fuerte aproximadamente hasta septiembre de 2018 y luego una tendencia más suave aunque aún creciente**. **Las concentraciones de hierro registradas en MAR-1 y TUN-1 fueron variables aunque relativamente altas en la etapa de túnel abierto, disminuyeron con el cierre del túnel (~30-60 mg/L) y luego mostraron un aumento al principio empinado que evolucionó a una tendencia levemente ascendente en torno a concentraciones entre ~200 y 380 mg/L.
@@ -77,6 +84,7 @@ Las concentraciones de hierro medidas en ambas estaciones durante el periodo de 
 {{< include qmd/fig/_hierro.qmd >}}
 :::
 
+La figura anterior, presenta la serie temporal de carga metálica de hierro (en kg/hr) desde el año 2010 a la fecha. Otras visualizaciones de concentraciones o cargas metálica de hierro, basadas en series estacionales, mensuales o anuales, pueden obtenerse en la [aplicación de visualización de datos de monitoreo](https://averri.shinyapps.io/ARMA8U0/) 
 
 ### Conclusiones
 
