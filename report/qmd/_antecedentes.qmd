@@ -1,6 +1,5 @@
 ## Parámetros de diseño {#sec-ANT}
 
-### Introducción
 
 El objetivo de esta sección será identificar los parámetros fundamentales de desempeño esperables de la obturación, tales como las presiones máximas de diseño, y los caudales máximos residuales que se esperan en la obturación, de acuerdo al diseño original efectuado por SRK en 2015 y el diseño final revisado y aprobado por Barrick en 2016.
 

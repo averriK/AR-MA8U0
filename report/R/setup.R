@@ -172,7 +172,7 @@ buildPlot.categorical <- function(
     legend.align = "right", # c("center", "left", "right")
     legend.valign = "top", # c("top", "middle", "bottom")
     legend.show = TRUE,
-    plot.save = TRUE,
+    plot.save = FALSE,
     group.legend.fontsize = "12px"
 ) {
   # Initialize plot bands if necessary
@@ -256,7 +256,7 @@ buildPlot.categorical <- function(
 buildPlot.timeseries<- function(
     data,
     plot.type=c("point","average"), #scatter, spline, combined
-    time.width=50,
+    time.width=30,
     plot.subtitle = "",
     plot.title = "",
     yAxis.label = "Y",
@@ -266,13 +266,15 @@ buildPlot.timeseries<- function(
     plot.bands = TRUE,
     band1.label = "B1=TRUE",
     band2.label = "B2=TRUE",
+    band3.label = "B3=TRUE",
+    band4.label = "B4=TRUE",
     plot.palette = hcl.pals()[4],
     plot.theme = hc_theme_grid(),# or hc_theme_ffx()
     legend.layout = "vertical",
     legend.align = "right", # c("center", "left", "right")
     legend.valign = "top", # c("top", "middle", "bottom")
     legend.show = TRUE,
-    plot.save = TRUE,
+    plot.save = FALSE,
     group.legend.fontsize = "12px",
     Y1.max = NULL,
     Y2.max = NULL,
@@ -286,7 +288,7 @@ buildPlot.timeseries<- function(
   # Ensure the dataset is ordered by ID and X (date) to calculate moving averages correctly
   data <- data[order(ID, X)]
   
-  # Calculate 7-day moving averages for Y
+  # Calculate n-day moving averages for Y
   data[, maY := rollapply(Y, width = time.width, FUN = mean, fill = NA, align = "right", partial = TRUE), by = ID]
   
   NID <- length(unique(data$ID))
@@ -317,6 +319,30 @@ buildPlot.timeseries<- function(
       to = as.numeric(as.POSIXct(end_date)) * 1000,      # convert to milliseconds
       color = "rgba(230,247,255,0.5)",  # Light blue for B2
       label = list(text = band2.label)
+    )
+    plot_band <- c(plot_band, list(AUX))  # Add to the plot_band list
+  }
+  
+  if (plot.bands == TRUE & "B3" %in% colnames(data)) {
+    start_date <- min(data$X[data$B3])
+    end_date <- max(data$X[data$B3])
+    AUX <- list(
+      from = as.numeric(as.POSIXct(start_date)) * 1000,  # convert to milliseconds
+      to = as.numeric(as.POSIXct(end_date)) * 1000,      # convert to milliseconds
+      color = "rgba(230,247,255,0.5)",  # Light blue for B2
+      label = list(text = band3.label)
+    )
+    plot_band <- c(plot_band, list(AUX))  # Add to the plot_band list
+  }
+  
+  if (plot.bands == TRUE & "B4" %in% colnames(data)) {
+    start_date <- min(data$X[data$B4])
+    end_date <- max(data$X[data$B4])
+    AUX <- list(
+      from = as.numeric(as.POSIXct(start_date)) * 1000,  # convert to milliseconds
+      to = as.numeric(as.POSIXct(end_date)) * 1000,      # convert to milliseconds
+      color = "rgba(230,247,255,0.5)",  # Light blue for B2
+      label = list(text = band4.label)
     )
     plot_band <- c(plot_band, list(AUX))  # Add to the plot_band list
   }

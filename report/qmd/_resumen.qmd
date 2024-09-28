@@ -1,0 +1,23 @@
+## Conclusiones
+
+
+### Resumen de hallazgos
+
+- Los caudales medidos en el portal desde la obturación del túnel en 2018 alcanzaron un valor máximo de 13.2 l/s observado en las semanas posteriores durante el estado transitorio. Este valor es menor al esperado por el modelo conservador de 30 l/s indicado como referencia en las respuestas a las actas #112 y #113. 
+Una vez estabilizado el sistema, las mediciones de los caudales salientes del túnel disminuyeron a un rango entre 3.8 y 5.1 l/s. Se observa que este rango no se ve afectado por variaciones del flujo en el punto de aporte del Turbio (LA-1A) debido a factores estacionales.\
+
+- La obturación del túnel Marcelo es un mecanismo eficiente para la contención del agua que drenaría a túnel abierto, manteniendo caudales residuales (~5 L/s) de aproximadamente un 25% de los permitidos por La Autoridad (20 L/s), los cuales no se han visto afectados ni por variaciones en la presión hidrostática aguas arriba del tapón ni por variaciones en el caudal del arroyo Turbio.
+
+- Las variaciones relevantes y medibles en el caudal del río de Las Taguas, desde su punto de confluencia en LA-8, están relacionadas principalmente a años hidrológicos de distinta característica y no al desarrollo del túnel ni a su posterior obturación.
+
+- La máxima presión registrada por los piezómetros representa algo menos del 40% de la carga máxima de diseño y no constituye un escenario de riesgo.
+
+- La influencia de la obturación del túnel Marcelo fue evaluada por medio de las cargas de soluto. Se evaluó además el pH como un parámetro indicador relacionado a la contribución de agua ácida y el tratamiento de regulación con cal apagada.
+
+- En el sector del túnel, los cambios de pH más relevantes se dieron en el portal por la adición de cal, valores que están tendiendo a estabilizarse luego del cierre del túnel y cese del tratamiento de adición de cal. Las cargas de solutos están mostrando una tendencia a valores previos al drenado por el túnel en el arroyo Turbio y se mantienen en valores muy bajos y estables en el portal. Los cambios en la calidad del agua superficial en este sector están relacionados principalmente a las obras de desvío que aislaron y reconectaron ambas cuencas.
+
+- En la actualidad, las cargas más significativas de sulfato y metales (Al, Fe y Cu, entre otros) provienen actualmente del arroyo Turbio, cuyo caudal ha aumentado luego del cierre del túnel y tiende a valores previos al túnel. Las cargas de sulfato y metales provenientes del portal del túnel son mínimas, con fracciones mínimas (2-5%) y estables.
+
+### Preguntas y respuestas
+
+

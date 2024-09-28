@@ -23,21 +23,23 @@ Los capítulos [-@sec-QUAL] y [-@sec-FLOW] se enfocan en el análisis de los dat
 Los siguientes documentos han sido utilizados como referencia para la elaboración del presente informe:
 
 - [Reporte de Diseño Ejecutivo Tapón, SRK Consulting](refs/BEASA12210-2211-C-RP-0018-5.pdf)\
-- [Informe Sostenimiento 20180712 Exp 414-657-B-04, Acta Barrick](refs/20180712 Exp 414-657-B.pdf)\
+- [Informe Sostenimiento 20180712 Exp 414-657-B-04, Barrick](refs/20180712 Exp 414-657-B-04.pdf)\
 - [Marcelo Tunnel Inspection, Golder](refs/20180320 Inspection Tunnel Golder Version English.pdf)\
 - [Reporte Obturacion Tunel Marcelo #1, Mejibar](refs/20190321_Mejibar.pdf)\
 - [Reporte Obturacion Tunel Marcelo #2,Mejibar](refs/20191022_Mejibar.pdf)\
 - [Reporte Obturacion Tunel Marcelo #3, Mejibar](refs/20210805_Mejibar.pdf)\
-- [Reporte Obturacion Tunel Marcelo #4, Mejibar](refs20221220_Mejibar.pdf)\
+- [Reporte Obturacion Tunel Marcelo #4, Mejibar](refs/20221220_Mejibar.pdf)\
 - [Reporte Obturacion Tunel Marcelo #5, Mejibar](refs/20231127_Mejibar.pdf)\
 - [Evaluación actualizada, túnel Marcelo, calidad de agua](refs/4747TM03-Túnel_Marcelo_Nota_Tecnica_ES_20221027.pdf)\
-- [Estimación de caudales de infiltración al túnel Marcelo](refs/52-2040-06-94-0.pdf)\
-- [Revisión del contexto hidrogeológico del túnel](refs/BEASA12210-2211-C-RP-0003-A.pdf)\
-- [Informe de monitoreo de calidad de agua del IDIH](refs/Calidad Agua LAMA 2012-2023-final.pdf)\
+- [Estimación de caudales de infiltración al túnel Marcelo, SRK Consulting](refs/52-2040-06-94-0.pdf)\
+- [Revisión del contexto hidrogeológico del túnel,SRK Consulting](refs/BEASA12210-2211-C-RP-0003-A.pdf)\
+- [Informe de monitoreo de calidad de agua, IDIH](refs/Calidad_Agua_LAMA_2012-2023-final.pdf)\
 - [Plan de acción de emergencia y desvío de ríos](refs/20170904 Exp 414-657-B-04.pdf)\
-- [Cédula: suspensión provisoria del tratamiento con cal del agua del túnel](refs/20190408 -1100-5074-B12_Cond_109.pdf)\
+- [Cédula: suspensión provisoria del tratamiento con cal del agua del túnel](refs/20190408-1100-5074-B12_Cond_109.pdf)\
 - [Respuesta a Cédula de suspensión provisoria del tratamiento con cal del agua del túnel](refs/20190410 exp 1100-0504-B-12.pdf)\
 - [Respuesta a requerimiento y presentación de informe de Pitteau](refs/20221027 exp 414-657.pdf)\
 - [Respuesta a requerimientos de la Comisión Interdisciplinaria Evaluadora Ambiental](refs/20230130 1404 BEASA 414-0657.pdf)\
 - [Informe Cierre de Valvulas Tunel Marcelo](refs/20180418 Exp 1100-0504-B-12.pdf)\
+
+
 

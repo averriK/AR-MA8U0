@@ -1,0 +1,78 @@
+
+:::  {.panel-tabset  .content-hidden when-format=“docx” .content-width-wide}
+
+### PA(U)
+
+```{r include=knitr::is_html_output()}
+piezo_code <- c("PA01(U)","PA02(U)","PA03(U)")
+year_min <- 2010
+year_max <- 2024
+time_width <- 30
+
+plot.type <- "average"
+Y1.max <- NULL
+Y2.max <- NULL
+source("qmd/fig/P_day.R")
+
+PLOT
+```
+### PA(D)
+
+```{r include=knitr::is_html_output()}
+piezo_code <- c("PA04(D)","PA05(D)","PA06(D)")
+year_min <- 2010
+year_max <- 2024
+time_width <- 30
+
+plot.type <- "average"
+Y1.max <- NULL
+Y2.max <- NULL
+source("qmd/fig/P_day.R")
+
+PLOT
+```
+
+### PB(D)
+
+```{r include=knitr::is_html_output()}
+piezo_code <- c("PB01(D)","PB02(D)","PB03(D)","PB04(D)","PB05(D)","PB06(D)")
+year_min <- 2010
+year_max <- 2024
+time_width <- 30
+
+plot.type <- "average"
+Y1.max <- NULL
+Y2.max <- NULL
+
+source("qmd/fig/P_day.R")
+
+PLOT
+```
+
+
+### ALL
+
+```{r include=knitr::is_html_output()}
+piezo_code <- c("PA01(U)","PA02(U)","PA03(U)","PA04(D)","PA05(D)","PA06(D)","PB01(D)","PB02(D)","PB03(D)","PB04(D)","PB05(D)","PB06(D)")
+year_min <- 2010
+year_max <- 2024
+time_width <- 30
+
+plot.type <- "average"
+Y1.max <- 240
+Y2.max <- 140
+Y1.label <- "Presión última de servicio [m]"
+Y2.label <- "Presión máxima de servicio [m]"
+
+source("qmd/fig/P_day.R")
+
+PLOT
+```
+
+
+:::
+
+
+
+
+

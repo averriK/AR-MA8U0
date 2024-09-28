@@ -11,7 +11,7 @@ css: styles.css
 ```{r setup,include=FALSE}
 source("R/setup.R")
 source("R/global.R")
-
+source("R/dataset.R")
 if(!knitr::is_html_output()){
   LIB <- "flextable"
   FONT.SIZE.BODY <- 10
@@ -34,7 +34,6 @@ if(!knitr::is_html_output()){
 
 {{< include qmd/_caudales.qmd  >}}
 
-
 {{< include qmd/_calidad.qmd  >}}
 
-<!-- {{< include qmd/performance.qmd  >}} -->
+{{< include qmd/_resumen.qmd  >}}

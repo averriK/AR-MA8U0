@@ -149,22 +149,7 @@ m1.server <- function(id) {
       
       # build PRESSURE timeseries ----
       ts4 <- reactive({
-        piezo_code <- req(input$piezo_code)
-        year_min <- min(req(input$years))#2010
-        year_max <- max(req(input$years))#2024
-        DT <- fread("data/PDT.csv")
-        DT <- DT[year(DATE)>=year_min & year(DATE)<=year_max & SID %in% piezo_code]
         
-        # Tag periods
-        DT[,B1:=FALSE]
-        DT[,B2:=FALSE]
-        DT[,B1:=DATE>=as.Date("2011-01-01") & DATE < as.Date("2018-01-01")]
-        DT[,B2:=DATE>=as.Date("2018-01-01")]
-        # outliers
-        if(!is.null(input$outliers) & input$outliers==TRUE ){
-          DT <- DT[LO==FALSE]
-        }
-        return(DT)
       })
       
       # build CHEMICAL timeseries ----
