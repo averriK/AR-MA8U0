@@ -19,8 +19,8 @@ tip.formatter <- JS(paste0("function () { return '<b>", xAxis.label, ":</b> ' + 
 
 PLOT <- buildPlot.timeseries(
   data=DATA,
-  Y2.max=Y1.max,
-  Y1.max=Y2.max,
+  Y2.max=Y2.max,
+  Y1.max=Y1.max,
   Y1.label=Y1.label,
   Y2.label=Y2.label,
   plot.type=plot.type,

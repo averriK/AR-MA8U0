@@ -411,7 +411,7 @@ buildPlot.timeseries.combined<- function(
     band1.label = "B1=TRUE",
     band2.label = "B2=TRUE",
     plot.palette = hcl.pals()[4],
-    plot.theme = hc_theme_grid(),# or hc_theme_ffx()
+    plot.theme = hc_theme_hcrt(),# or hc_theme_ffx()
     legend.layout = "vertical",
     legend.align = "right", # c("center", "left", "right")
     legend.valign = "top", # c("top", "middle", "bottom")

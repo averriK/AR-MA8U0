@@ -1,38 +1,36 @@
+
 ## Parámetros de diseño {#sec-ANT}
 
-
-El objetivo de esta sección será identificar los parámetros fundamentales de desempeño esperables de la obturación, tales como las presiones máximas de diseño, y los caudales máximos residuales que se esperan en la obturación, de acuerdo al diseño original efectuado por SRK en 2015 y el diseño final revisado y aprobado por Barrick en 2016.
+El objetivo de esta sección será identificar los parámetros fundamentales de desempeño esperables de la obturación, tales como las presiones máximas de diseño, y los caudales máximos residuales que se esperan en la obturación, de acuerdo con el diseño original efectuado por SRK en 2015 y el diseño final revisado y aprobado por Barrick en 2016.
 
 ### Diseño Hidráulico
 
-En diciembre de 2013, SRK construyó un modelo numérico tridimensional con el que estimó flujos y efectuó predicciones para el dimensionamiento, cálculo y diseño conceptual de estructuras de cierre. Durante el diseño conceptual se actualizó el análisis para evaluar los efectos de la obturación del túnel sobre el macizo rocoso.^[Nuevamente se modeló la cuenca pero en esta oportunidad se representó el túnel obturado el cual funciona como un conducto a presión, captando agua del macizo en la parte alta de la cuenca y alimentando el macizo en la zona cercana al Tapón.] 
+En diciembre de 2013, SRK construyó un modelo numérico tridimensional con el que estimó flujos y efectuó predicciones para el dimensionamiento, cálculo y diseño conceptual de estructuras de cierre. Durante el diseño conceptual se actualizó el análisis para evaluar los efectos de la obturación del túnel sobre el macizo rocoso.[^1]
 
-En relación a los caudales esperables en el portal, el modelo hidrogeológico predijo flujos de infiltración preferencial aguas abajo del tapón, comprendidos entre 20 y 30 l/s como valor máximo. Este valor se ve reflejado en el [Informe de cierre de Válvulas](refs/20190410 exp 1100-0504-B-12.pdf)
+[^1]: Nuevamente se modeló la cuenca pero en esta oportunidad se representó el túnel obturado el cual funciona como un conducto a presión, captando agua del macizo en la parte alta de la cuenca y alimentando el macizo en la zona cercana al Tapón.
 
-Respecto a las presiones hidrostáticas, los resultados del análisis predijeron que la obturación deberá soportar una presión estática de agua cercana a los 72 m de columna de agua (m.c.a.).El Tapón fue diseñado con una presion hidrostática de servicio media de 80 metros de columna de agua y el análisis de confiabilidad (carga de falla) reportó un factor de seguridad cercano a 3.1 para la carga estática, equivalente a una carga última de diseño cercana a los 240 m.c.a.
+Con relación a los caudales esperables en el portal, el modelo hidrogeológico predijo flujos de infiltración preferencial aguas abajo del tapón, comprendidos entre 20 y 30 l/s como valor máximo. Este valor se ve reflejado en el Informe Cierre de Valvulas Tunel Marcelo [@beasa] 
 
+Respecto a las presiones hidrostáticas, los resultados del análisis predijeron que la obturación deberá soportar una presión estática de agua cercana a los 72 m.c.a.[^2]. El Tapón fue diseñado con una presión hidrostática de servicio media de 80 m.c.a y el análisis de confiabilidad (carga de falla) reportó un factor de seguridad cercano a 3.1 para la carga estática, equivalente a una carga última de diseño cercana a los 240 m.c.a.
+
+[^2]: m.c.a.: metros de columna de agua
 
 ### Diseño Sísmico
 
-El sitio del proyecto Pascua-Lama está expuesto a la ocurrencia de terremotos de moderada intensidad. El sismo máximo de diseño adoptado para el proyecto tiene un período de retorno de 1:2,500 años, equivalente a una probabilidad de excedencia del 2% en 50 años. La acción sísmica se traduce en un movimiento brusco del agua retenida similar al mecanismo de golpe de ariete hidráulico, y el parámetro sísmico que controla el diseño es la velocidad máxima de partícula (PPV) medida en suelo duro. El sismo máximo de diseño para el sitio de emplazamiento del Tapón se estimó en un PGV cercano a 1.0 m/s.  La altura de agua correspondiente a la sobrepresión hidrostática inducida por un evento sísmico extremo,se estimó en 140 m de columna de agua. Para esta carga sísmica, el análisis de confiabilidad del tapón reportó un factor de seguridad cercano a 1.40
+El sitio del proyecto Pascua-Lama está expuesto a la ocurrencia de terremotos de moderada intensidad. El sismo máximo de diseño adoptado para el proyecto tiene una aceleración máxima del terreno PGA [^3] cercana a 0.75 g[^4]. La intensidad PGA del sismo de diseño se obtuvo a partir de un estudio simplificado de peligrosidad sísmica probabilístico hecho para el sitio del proyecto [@srkconsulting2016]. La intensidad sísmica de diseño se estimó que tiene una probabilidad anual de ser excedida comprendida entre 1% y 2% en 50 años de exposición equivalentes a un período de retorno comprendido entre 1:2,500 años y 1:5,000 años[^5].
 
+[^3]: PGA: Peak-Ground Acceleration
 
-###  Diseño geotécnico
+[^4]: A modo de referencia, los sismos máximos de diseño adoptados para las presas de reservorio de agua San Juan fueron menores a 0.6 g
 
-En relación al sostenimiento del túnel, sólo dos tramos muy cortos del túnel requirieron la instalación de marcos de acero y pernos cable durante la excavación del túnel. La fortificación del túnel fue diseñada originalmente con marcos de acero cubiertos de shotcrete (PK 0+000 – PK 0+014) y tramos reforzados con pernos helicoidales galvanizados y cartuchos de resina, cubierta luego en su totalidad con shotcrete con fibra. Luego de la ejecución del tapón, en diciembre de 2018 se finalizó la reparación del sosteniemiento con pernos fibra de 3m/4mx25mm y malla de poliester entre las PK 0+230 – PK 0+255 y PK 0+180 – PK 0+200.
+[^5]: A modo de referencia, los sismos máximos de diseño para estructuras civiles suelen adoptarse con períodos de retorno cercanos a 1:500 años, equivalentes a una probabilidad del 10% de ser excedidos en 50 años y
 
-### Manejo de Riesgos
+La acción sísmica se traduce en un movimiento brusco del agua retenida aguas arriba del tapón, que resulta en un incremento de presiones instantáneo similar al mecanismo de golpe de ariete hidráulico, y el parámetro sísmico que controla el diseño es la velocidad pico del terreno o PGV[^6] medida en suelo duro.
 
-Los riesgos posteriores al cierre del Proyecto son aquellos que se originan en situaciones que pueden comprometer a la obra ejecutada o su desempeño a largo plazo. El análisis de confiabilidad realizado en el diseño proporcionó una estimación de la probabilidad de falla estructural del tapón debida a una presión hidrostática por encima de los niveles máximos de diseño y la probabilidad de falla por pérdida de estanqueidad. Para minimizar estos riesgos, se implementaron una serie de medidas de mitigación como parte del plan de manejo de riesgos tales como:
+[^6]: PGV: Peak Ground Velocity
 
-- Instalación de un sistema de monitoreo de presiones que permite conocer los niveles de presión hidrostática reales y definitivos del sistema estacionario sobre este evento y el sistema de manejo de aguas admite la liberación de presiones en caso que se encontrara comprometida la integridad de la obturación;
+Las velocidades pico PGV y presiones hidrodinámicas asociadas al golpe de ariete, se estimaron mediante un modelo de aprendizaje de máquina (machine-learning) calibrado para los sismos de Pascua-Lama [@Verri2023a]. Para el sismo de diseño, el modelo predijo una velocidad PGV del orden de 0.8 m/s y una sobrepresión hidrodinámica comprendida entre 120 y 140 m.c.a. Para esta presión hidrodinámica *máxima de diseño*, el análisis de confiabilidad del tapón reportó un factor de seguridad a la falla cercano a 1.40
 
-- Empleo de sistemas redundantes (cuádruple) de by-pass para poder despresurizar y desagotar el túnel en una contingencia; Filtración en la interfaz con el macizo y/o el cuerpo de hormigón
+### Diseño geotécnico
 
-- Implementación de un programa de inyecciones de impermeabilización del macizo y del cuerpo del tapón. Falla de sistema de válvulas 
-
-- Uso de tubos de acero inoxidable calidad T316PL, resistentes a la corrosión y al ataque ácido, diseñados con altos espesores de sacrificio (1/4”);
-
-- Diseño de un sistema redundante en cada tubería de válvulas mariposa, válvulas de retención y válvulas esclusa, que permiten el reemplazo completo del sistema de válvulas sin riesgo de despresurización.
-
-
+En relación al sostenimiento del túnel, sólo dos tramos muy cortos del túnel requirieron la instalación de marcos de acero y pernos cable durante la excavación del túnel. La fortificación del túnel fue diseñada originalmente con marcos de acero cubiertos de shotcrete (PK 0+000 – PK 0+014) y tramos reforzados con pernos helicoidales galvanizados y cartuchos de resina, cubierta luego en su totalidad con shotcrete con fibra. Luego de la ejecución del tapón, en diciembre de 2018 se finalizó la reparación del sostenimiento con pernos fibra de 3m/4mx25mm y malla de poliéster entre las PK 0+230 – PK 0+255 y PK 0+180 – PK 0+200 de acuerdo a lo especificado por el informe de Inspección de Julio de 2018 con el objeto de garantizar el ingreso seguro al túnel.

@@ -3,7 +3,7 @@ params:
   lang: ES
   exportImages: true
   background: white
-bibliography: references.bib
+bibliography: "qmd/references.bib"
 css: styles.css
 ---
 
@@ -28,7 +28,7 @@ if(!knitr::is_html_output()){
 
 {{< include qmd/_antecedentes.qmd  >}}
 
-<!-- {{< include qmd/data.qmd  >}} -->
+
 
 {{< include qmd/_integridad.qmd  >}}
 
@@ -37,3 +37,5 @@ if(!knitr::is_html_output()){
 {{< include qmd/_calidad.qmd  >}}
 
 {{< include qmd/_resumen.qmd  >}}
+
+{{< include qmd/_referencias.qmd  >}}

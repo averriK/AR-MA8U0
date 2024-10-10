@@ -1,24 +1,25 @@
-## Caudales y Presiones Hidrostáticas {#sec-FLOW}
+## Caudales {#sec-FLOW}
 
-El objetivo de este capítulo consiste en evaluar el desempeño de la obturación en términos del impacto en los caudales y niveles piezométrcos aguas arriba y aguas abajo de la obturación, y poder correlacionar los desvíos respecto de la línea base con eventos climáticos, operacionales o de mantenimiento de la obturación.
-
-
-### Estaciones de monitoreo {#sec-SYSLOC}
-
-- **LA-1A**: se ubica sobre el tramo superior del arroyo Turbio, inmediatamente aguas arriba del portal del túnel y del área de tratamiento de agua ácida y control de pH que estuvo en funcionamiento durante el periodo de túnel abierto (2011-2013). 
-
-- **MAR-1**: está ubicada en el portal del túnel y capta el agua drenada por el túnel, previamente al sistema de tratamiento de control del pH. El agua monitoreada en esta estación proviene del sistema del arroyo Turbio y del macizo rocoso, posiblemente con modificaciones químicas menores debidas al cemento utilizado en el revestimiento interno del túnel.
-
-- **TUN-1**: se localiza inmediatamente a la salida del sistema de tratamiento de control del pH y recibe el drenaje del túnel luego de ser tratado con cal apagada (Ca (OH)2). Estuvo activa hasta la suspensión del tratamiento del agua con cal apagada, el 5 de abril de 2019.
-
-- **LA-8**: se ubica sobre el cauce del río Turbio, inmediatamente antes de la desembocadura del río de Las Taguas. En esta estación se monitorea actualmente el agua proveniente de los arroyos Canito y Turbio, así como el agua residual proveniente del túnel luego de su cierre. 
-
-- **SW-9**: es la primera estación de monitoreo sobre el río de Las Taguas que recibe la descarga desde las cuencas de Canito y Turbio (ya monitoreada en LA-8). 
-
-- **LA-16**: se ubica sobre el río Las Taguas, aguas abajo de la confluencia con el arroyo de Los Amarillos. Es el punto de cumplimiento legal del proyecto Lama.
+El objetivo de este capítulo consiste en evaluar el desempeño de la obturación en términos del impacto en los caudales en estaciones de monitoreo cercanas, y poder correlacionar los desvíos respecto de la línea base con eventos climáticos y operacionales de la obturación.
 
 
-Algunos cursos de agua en los sistemas Canito y Turbio fueron afectados por desvíos relacionados a obras de manejo de agua, lo cual se vio reflejado en su registro de monitoreo. Las modificaciones de los cursos de agua en las cuencas de Canito y Turbio comenzaron en enero de 2014 y estuvieron vigentes hasta noviembre de 2020. Un resumen de la configuración de los sistemas de conducción de agua en las cuencas de Canito y Turbio, antes y después de noviembre/diciembre de 2020, puede encontrarse en el informe del IDIH (2024), el cual sintetiza los resultados del monitoreo de calidad de agua en el proyecto Lama desde enero de 2012 hasta diciembre de 2023. 
+### Estaciones de monitoreo de calidad de agua {#sec-SYSLOC}
+
+-   **LA-1A**: se ubica sobre el tramo superior del arroyo Turbio, inmediatamente aguas arriba del portal del túnel y del área de tratamiento de agua ácida y control de pH que estuvo en funcionamiento durante el periodo de túnel abierto (2011-2013). Esta agua es naturalmente ácida y actualmente con valores de pH entre \~2,9 y 3,2.
+
+-   **MAR-1**: está ubicada en el portal del túnel y capta el agua drenada por el túnel, previamente al sistema de tratamiento de control del pH. El agua monitoreada en esta estación durante el túnel abierto fue una mezcla del agua del subálveo del arroyo Turbio y el agua de fracturas del macizo rocoso. Actualmente, esta estación capta el caudal residual luego de la obturación (en torno a 5 L/s) y *las aguas son naturalmente ácidas con valores de pH entre \~2,9 y 3,4*.
+
+-   **TUN-1**: se localiza inmediatamente a la salida del sistema de tratamiento de control del pH y recibe el drenaje del túnel luego de ser tratado con cal apagada (Ca (OH)2). Estuvo activa hasta la suspensión del tratamiento del agua con cal apagada, el 5 de abril de 2019.
+
+-   **LA-8**: se ubica sobre el cauce del río Turbio, inmediatamente antes de la desembocadura del río de Las Taguas. En esta estación se monitorea actualmente el agua proveniente de la cuenca de Canito, así como el agua conducida y descargada por la TD3: arroyos Canito y Turbio más el caudal residual en el portal del túnel luego de la obturación. También tiene un aporte de agua subsuperficial correspondiente al sistema de drenaje que se encuentra debajo del dique de colas.
+
+-   **SW-9**: es la primera estación de monitoreo sobre el río de Las Taguas, que recibe la descarga desde las cuencas de Canito y Turbio más el caudal residual del túnel obturado (ya monitoreada en LA-8).
+
+-   **LA-16**: se ubica sobre el río Las Taguas, aguas abajo de la confluencia con el arroyo de Los Amarillos. Es el *punto de cumplimiento legal* del proyecto Lama.
+
+Algunos cursos de agua en los sistemas Canito y Turbio fueron afectados por desvíos relacionados a obras de manejo de agua, lo cual se vio reflejado en su registro de monitoreo. Las modificaciones de los cursos de agua en las cuencas de Canito y Turbio comenzaron en enero de 2014 y estuvieron vigentes hasta noviembre de 2020. Un resumen de la configuración de los sistemas de conducción de agua en las cuencas de Canito y Turbio, antes y después de noviembre/diciembre de 2020, puede encontrarse en el informe del IDIH , el cual sintetiza los resultados del monitoreo de calidad de agua en el proyecto Lama desde enero de 2012 hasta diciembre de 2023 [^_caudales-1].
+
+[^_caudales-1]: El cambio más relevante de este periodo está relacionado a la tubería de desvío TD3, la cual condujo agua del arroyo Turbio, brazo Canito Norte y del drenado del túnel entre enero de 2014 y noviembre/diciembre de 2020, descargando en un punto aguas abajo de LA-8. En noviembre/diciembre de 2020, el caudal de la TD3 se desvió hacia la TD4, sumándose al caudal de la cuenca de Canito.
 
 ![Esquema Actual del Sistema de manejo de Aguas a partir de diciembre 2020. Fuente: IDIH (2024), 2024](images/aguas.png)
 
@@ -26,83 +27,84 @@ Algunos cursos de agua en los sistemas Canito y Turbio fueron afectados por desv
 
 Las siguientes viñetas son una breve reseña de las fechas aproximadas de eventos que tienen relevancia en el análisis de monitoreo de calidad de agua, relacionado al túnel Marcelo y a su obturación.
 
-- Alumbramiento de agua en la excavación del túnel: no se encontró un documento que indique una fecha exacta, aunque se estima que desde principios de 2011.
+-   Alumbramiento de agua en la excavación del túnel: no se encontró un documento que indique una fecha exacta, aunque se estima que desde principios de 2011.
 
-- Agregado con cal en el portal del túnel: julio de 2012.
+-   Agregado con cal en el portal del túnel: julio de 2012.
 
-- Suspensión de la excavación del túnel: diciembre de 2013.
+-   Suspensión de la excavación del túnel: diciembre de 2013.
 
-- Máximo caudal registrado a túnel abierto (250 L/s): enero de 2017.
+-   Máximo caudal registrado a túnel abierto (250 L/s): enero de 2017.
 
-- Inicio de la construcción del tapón: 17 de agosto de 2017.
+-   Inicio de la construcción del tapón: 17 de agosto de 2017.
 
-- Cierre de válvulas del tapón: 12 de enero de 2018.
+-   Cierre de válvulas del tapón: 12 de enero de 2018.
 
-- Suspensión del agregado de cal: abril de 2019.
+-   Suspensión del agregado de cal: abril de 2019.
 
-- Inicio de obras de desvío y conducción entre las cuencas de Canito y Turbio: enero de 2014 (IDIH, 2024)
+-   Inicio de obras de desvío y conducción entre las cuencas de Canito y Turbio: enero de 2014 (IDIH, 2024)
 
-- Reconfiguración del sistema de conducción de agua entre las cuencas de Canito y Turbio: noviembre/diciembre de 2020.
+-   Reconfiguración del sistema de conducción de agua entre las cuencas de Canito y Turbio: noviembre/diciembre de 2020.
 
-### Caudales
+### Caudales registrados en LA-1A, MAR-1 y TUN-1
 
-#### LA-1A (Río Turbio), MAR-1 y TUN-1 (Túnel)
+El caudal del arroyo Turbio en este tramo disminuyó durante la excavación del túnel debido al “efecto dren” del túnel, el cual drenó una parte importante del caudal superficial y subálveo del arroyo, así como el agua de almacenamiento del acuífero de fracturas del macizo rocoso. El caudal en LA-1A es altamente variable durante el día debido a que este arroyo tiene una alta dependencia de los deshielos en su tramo superior, por lo que los puntos en el gráfico representan un promedio diario. El caudal en este punto se mantuvo relativamente bajo, con registros promedio entre 5 y 20 L/s, a excepción de un evento con caudales promedio de hasta 170 L/s entre noviembre de 2015 y enero de 2016, debido a precipitaciones intensas en invierno de 2015 registradas en la estación de campamento Barreales en Pascua. Luego del cierre de las válvulas del tapón del túnel en enero de 2018, el caudal se incrementó fuertemente por recuperación del caudal drenado y luego un decrecimiento más suave hasta caudales promedio en el orden de 30 L/s. El caudal en MAR-1 evolucionó en picos que se daban cuando la excavación del túnel encontraba una zona de mayor conductividad hidráulica (e.g. zona de falla o de mayor fracturamiento) y valles que se daban cuando dicho caudal se drenaba y disminuía el nivel piezométrico. El caudal en TUN-1 tuvo casi la misma serie que el caudal en MAR-1. Los caudales en el portal del túnel, registrados actualmente en MAR-1, disminuyeron súbitamente luego del cierre de válvulas del tapón, con un valor máximo de 13 L/s inmediatamente luego del cierre y una estabilización en torno a 5 L/s.
 
-El caudal del arroyo Turbio en este tramo disminuyó durante la excavación debido al “efecto dren” del túnel, el cual drenó una parte importante del caudal superficial y subálveo del arroyo, así como el agua de almacenamiento del acuífero de fracturas del macizo rocoso. El caudal en LA-1A es altamente variable durante el día debido a que este arroyo tiene una alta dependencia de los deshielos en su tramo superior, por lo que los puntos en el gráfico representan un promedio diario. El caudal en este punto se mantuvo relativamente bajo, con registros promedio entre 5 y 20 L/s, a excepción de un evento con caudales promedio de hasta 170 L/s entre noviembre de 2015 y enero de 2016, debido a precipitaciones intensas en invierno de 2015 registradas en la estación de Barreal. Luego del cierre de las válvulas del tapón del túnel en enero de 2018, el caudal se incrementó fuertemente  por recuperación del caudal drenado y luego un decrecimiento más suave hasta caudales promedio en el orden de 30 L/s. 
+### Caudales registrados en LA-8
 
-El caudal en MAR-1 evolucionó en picos que se daban cuando la excavación del túnel encontraba una zona de mayor conductividad hidráulica (e.g. zona de falla o de mayor fracturamiento) y valles que se daban cuando dicho caudal se drenaba y disminuía el nivel piezométrico. El caudal en TUR-1 tuvo casi la misma serie que el caudal en MAR-1.
+El caudal estuvo en baja desde los primeros registros y se mantuvo en valores relativamente bajos (\~70-100 L/s) entre 2014 y fines de 2020, periodo en el cual LA-8 no recibió agua de la cuenca del Turbio más agua del túnel. El caudal presenta una tendencia decreciente desde el cierre de las válvulas y se encuentra en tendencia creciente desde la recepción de agua del arroyo Turbio (más el caudal residual del túnel, \~5 L/s), con la mayor parte de los valores en el rango 100-175 L/s, similares a los medidos al principio del registro. Se registraron los eventos de alto caudal relacionados a las precipitaciones nivales durante los inviernos de 2015 y 2017.
 
-#### LA-8 (Río Turbio)
+### Caudales registrados en LA-16 y SW-9
 
-El caudal estuvo en baja desde los primeros registros y se mantuvo en valores relativamente bajos (~70-100 L/s) entre 2014 y fines de 2020, cuando LA-8 no recibía agua superficial de la cuenca del río Turbio. El caudal presenta una tendencia decreciente desde el cierre de las válvulas y se encuentra en tendencia creciente desde la reconexión de las cuencas de Canito y Turbio, con la mayor parte de los valores en el rango 100-175 L/s, similares a los medidos al principio del registro. Se registraron los eventos de alto caudal relacionados a las precipitaciones nivales durante los inviernos de 2015 y 2017. Los caudales en el portal del túnel, registrados actualmente en MAR-1, disminuyeron súbitamente luego del cierre de válvulas del tapón, con un valor máximo de 13 L/s inmediatamente luego del cierre y una estabilización en torno a 5 L/s.
+Los caudales en SW-9 y LA-16 presentan series temporales de caudal muy similares, tanto en valores de caudal como en evolución. Se registraron los picos de alto caudal (en el orden de 3000-3500 L/s) relacionados a los inviernos de 2015 y 2017, y uno intermedio entre octubre y diciembre de 2016. Los caudales se mantuvieron relativamente altos (\~1000-1500 L/s) luego del cierre de las válvulas en enero de 2018 y mostraron una tendencia decreciente desde aproximadamente septiembre de 2019, hasta un rango relativamente amplio de 350-900 L/s, similar al registrado previamente a la apertura del túnel, aunque sin una relación directa con dicho cierre.
 
-#### LA-16 y SW-9 (Las Taguas)
-
-Los caudales en SW-9 y LA-16 presentan series temporales muy similares, tanto en valores de caudal como en evolución. Se registraron los picos de alto caudal (en el orden de 3000-3500 L/s) relacionados a los inviernos de 2015 y 2017, y uno intermedio entre octubre y diciembre de 2016. Los caudales se mantuvieron relativamente altos (~1000-1500 L/s) luego del cierre de las válvulas en enero de 2018 y mostraron una tendencia decreciente desde aproximadamente septiembre de 2019, hasta un rango relativamente amplio de 350-900 L/s, similar al registrado previamente a la apertura del túnel, aunque sin una relación directa con dicho cierre.
-
-::: {.content-hidden when-format=“docx”}
+::: {.content-hidden when-format="“docx”"}
 {{< include qmd/fig/_flow.qmd >}}
 :::
 
-La figura anterior, presenta la serie temporal de caudales (en L/s) para el período comprendido desde el cierre de las válvulas a la fecha. Otras visualizaciones de caudales basadas en eventos estacionales, mensuales o anuales, pueden obtenerse en la [aplicación de visualización de datos de monitoreo](https://averri.shinyapps.io/ARMA8U0/). 
+La figura anterior, presenta series temporales de caudales (en L/s) para diferentes estaciones de monitoreo, registradas desde el año 2010 a la fecha.[^_caudales-2]
+
+[^_caudales-2]: Las series temporales fueron obtenidas a partir de una aplicación de base de datos de monitoreo implementada para el proyecto Lama. Otras visualizaciones basadas en eventos estacionales, mensuales o anuales, pueden obtenerse en el siguiente [enlace](https://averri.shinyapps.io/ARMA8U0/){target="_blank"}
 
 
-### Niveles piezométricos
+### Impacto en los caudales del Túnel
 
-Las presiones hidrostáticas máximas medidas se encuentran en el rango previsto por los diversos modelos hidrogeológicos.  La presión máxima medida desde el cierre de válvulas se detectó en el piezómetro de la solera aguas arriba (PA02) durante el transitorio posterior al cierre de válvulas y fue de 95 mca. Posteriormente se detectaron ciclos estacionales de presiones correlacionados con los periodos de deshielo. La máxima presión registrada por los piezómetros representa algo menos del 40% de la carga 
-última de servicio (240 m) y no constituye un escenario de riesgo. Durante el plan de monitoreo de integridad estructural (ver [-@sec-INTEG]) no se han detectado pérdidas ni fallas en el funcionamiento del sistema de válvulas desde su construcción a la fecha.
+En el sector del túnel, la excavación del túnel Marcelo por debajo del nivel de saturación del macizo rocoso tuvo como consecuencias el drenado del acuífero de fracturas del macizo rocoso[^_caudales-5] y el drenado del subálveo del arroyo Turbio, causando una disminución del caudal superficial de este curso de agua. El agua del drenado del macizo rocoso y del subálveo del arroyo Turbio se condujo a través del túnel y se monitoreó en la estación MAR-1, mientras que el agua superficial remanente del tramo inferior del arroyo Turbio se monitoreó en la estación LA-1A.
 
+[^_caudales-5]: El drenado del acuífero provocó la disminución del nivel piezométrico y el secado temporal de algunos puntos de afloramientos de agua en la superficie del terreno por encima de la traza del túnel
 
+El caudal residual en MAR-1 se mantuvo en torno a 5-6 L/s desde mayo de 2018 y no registró variaciones relevantes, a pesar de las variaciones anuales (en el orden de 7 a 10 m) en la altura piezométrica correspondiente a la solera del túnel obturado en la cual se registraron máximos en marzo-abril de cada año. Tampoco se manifestaron cambios relacionados con las variaciones de caudal del arroyo Turbio.
 
-::: {.content-hidden when-format=“docx”}
-{{< include qmd/fig/_pressure.qmd >}}
-:::
-
-La figura anterior, presenta la serie temporal de niveles piezométricos (en m.c.a) para el período comprendido desde el cierre de las válvulas a la fecha. Otras visualizaciones de niveles piezométricos, basadas en eventos estacionales, mensuales o anuales, pueden obtenerse en la [aplicación de visualización de datos de monitoreo](https://averri.shinyapps.io/ARMA8U0/) 
-
-### Conclusiones
-
-En el sector del túnel, la excavación del túnel Marcelo por debajo del nivel de saturación del macizo rocoso tuvo como consecuencias:
-
-- El drenado del acuífero de fracturas del macizo rocoso, provocando la disminución del nivel piezométrico y el secado temporal de algunos puntos de afloramientos de agua en la superficie del terreno por encima de la traza del túnel.
-
-- El drenado del subálveo del arroyo Turbio, causando una disminución del caudal superficial de este curso de agua. 
-
-El agua del drenado del macizo rocoso y del subálveo del arroyo Turbio se condujo a través del túnel y se monitoreó en la estación MAR-1, mientras que el agua superficial remanente del tramo inferior del arroyo Turbio se monitoreó en la estación LA-1A. 
-
-Los aumentos marcados en el caudal del arroyo Turbio durante la etapa de túnel abierto fueron eventuales y posteriores a periodos caracterizados por precipitaciones de nieve intensas, especialmente los ocurridos en los años 2015 y 2017, que afectaron toda la zona y sus efectos fueron registrados en las estaciones de monitoreo aguas abajo. Los eventos de caudal alto del agua del túnel monitoreada en MAR-1estuvieron relacionados a la intercepción de zonas de alto fracturamiento durante la excavación del túnel, los cuales se estabilizaban a medida que descendía el nivel piezométrico, y sucediendo inviernos de nevadas intensas (e.g. verano de 2018). 
-Luego del cierre de las válvulas del tapón del túnel en enero de 2018, el caudal en el arroyo Turbio aumentó rápidamente a valores en torno a 75 L/s y luego fue decreciendo hasta valores actuales de ~30 L/s. En el portal del túnel, se registró un caudal máximo de unos 13 L/s inmediatamente luego del cierre y se estabilizó rápidamente en el orden de 5 L/s.
-
-El caudal residual en MAR-1 se mantuvo en torno a 5-6 L/s desde mayo de 2018 y no registró variaciones relevantes, a pesar de las variaciones anuales (en el orden de 7 a 10 m) en la altura piezométrica correspondiente a la solera del túnel obturado en la cual se registraron máximos en marzo-abril de cada año. Tampoco se manifestaron cambios relacionados con las variaciones de caudal del arroyo Turbio. 
-
-
-*Se concluye que la obturación del túnel Marcelo es un mecanismo eficiente para la contención del agua que drenaría a túnel abierto, manteniendo caudales residuales (~5 L/s) de aproximadamente un 25% de los permitidos por La Autoridad (20 L/s) , los cuales no se han visto afectados ni por variaciones en la presión hidrostática aguas arriba del tapón ni por variaciones en el caudal del arroyo Turbio.*
-
-En el sector inmediatamente aguas arriba de la desembocadura del agua superficial de las cuencas de Canito y Turbio en el río de Las Taguas, las variaciones más relevantes de caudal estuvieron relacionadas a las obras de desconexión y conexión de ambas cuencas. Se observaron aumentos más bien eventuales del caudal, relacionadas a años de registros de alta precipitación nival (e.g. 2015 y 2017), que afectaron toda la zona.
-En el sector del río de Las Taguas, se observaron los mismos picos de caudal relacionados a años de precipitaciones intensas de nieve y no se notaron variaciones que puedan correlacionarse directamente con las obras de desvío en las cuencas de Canito y Turbio. A partir de la obturación total del túnel Marcelo en enero de 2018, puede notarse una disminución de los caudales en este tramo, aunque esta tendencia es similar a la del arroyo Turbio y parece estar relacionada a una disminución general de las precipitaciones en los últimos 5 años. Incluso el periodo de máximo caudal en el túnel, ~200-250 L/s entre diciembre de 2016 y marzo de 2017, coincidió con el periodo de máximo registro del caudal en el río de Las Taguas, 2200-3200 L/s en LA-16, aunque la contribución del caudal del túnel fue de menos del 10% del caudal del río de Las Taguas y es poco probable que haya causado tales picos.
-
-*Se concluye que las variaciones relevantes y medibles en el caudal del río de Las Taguas, desde su punto de confluencia en LA-8, están relacionadas principalmente a años hidrológicos de distinta característica y no al desarrollo del túnel ni a su posterior obturación.*
+Los caudales medidos en el portal desde la obturación del túnel en 2018 alcanzaron un valor máximo de 13 l/s observado en las semanas posteriores durante el estado transitorio. Este valor es menor al esperado por el modelo hidrogeológicos más conservadores que estimaron una cota de 30 l/s. Una vez estabilizado el sistema, las mediciones de los caudales salientes del túnel disminuyeron a un rango entre 3.8 y 5.1 l/s. 
 
 
 
 
+### Impacto en los caudales del arroyo Turbio
+
+Los aumentos marcados en el caudal del arroyo Turbio durante la etapa de túnel abierto fueron eventuales y posteriores a periodos caracterizados por precipitaciones de nieve intensas, especialmente los ocurridos en los años 2015 y 2017, que afectaron toda la zona y sus efectos fueron registrados en las estaciones de monitoreo aguas abajo. Los eventos de caudal alto del agua del túnel monitoreada en MAR-1estuvieron relacionados a la intercepción de zonas de alto fracturamiento durante la excavación del túnel, los cuales se estabilizaban a medida que descendía el nivel piezométrico, y sucediendo inviernos de nevadas intensas (e.g. verano de 2018).
+
+Luego del cierre de las válvulas del tapón del túnel en enero de 2018, el caudal en el arroyo Turbio aumentó rápidamente a valores en torno a 75 L/s y luego fue decreciendo hasta valores actuales de \~30 L/s. En el portal del túnel, se registró un caudal máximo de unos 13 L/s inmediatamente luego del cierre y se estabilizó rápidamente en el orden de 5 L/s.
+
+### Impacto en los caudales del río Las Taguas
+
+En el sector inmediatamente aguas arriba de la desembocadura del agua superficial de las cuencas de Canito y Turbio en el río de Las Taguas, estación LA-8, las variaciones más relevantes de caudal estuvieron relacionadas a las obras de desvío y conducción, especialmente la TD3, la cual volvió a descargar el agua del arroyo Turbio y túnel desde noviembre/diciembre de 2020. En este sector, se observaron aumentos más bien eventuales del caudal, relacionadas a años de registros de alta precipitación nival (e.g. 2015 y 2017), que afectaron toda la zona.
+
+En el sector del río de Las Taguas, se observaron los mismos picos de caudal relacionados a años de precipitaciones intensas de nieve y no se notaron variaciones que puedan correlacionarse directamente con las obras de desvío en las cuencas de Canito y Turbio. 
+
+A partir de la obturación total del túnel Marcelo en enero de 2018, puede notarse una disminución de los caudales en este tramo, aunque esta tendencia es similar a la del arroyo Turbio y parece estar relacionada a una disminución general de las precipitaciones en los últimos 5 años. 
+
+Incluso el periodo de máximo caudal en el túnel, \~200-250 L/s entre diciembre de 2016 y marzo de 2017, coincidió con el periodo de máximo registro del caudal en el río de Las Taguas, 2200-3200 L/s en LA-16. Debido a que la contribución del caudal del túnel fue de menos del 10% del caudal del río de Las Taguas, es improbable que haya causado tales picos.
+
+### Resumen
+
+
+- Las presiones hidrostáticas máximas registradas fuero previstas con anterioridad y no han presentado variaciones significativas desde el cierre de válvulas. Luego, el sistema de obturación funciona de acuerdo a lo previsto
+
+- El plan de monitoreo implementado por BEASA ha permitido validar los parámetros de diseño y los rangos de presiones y caudales previstos por los modelos hidrogeológicos y ha cunplido satisfactoriamente con los objetivos requeridos para la obturación. El manteniento futuro de dicho plan no es mandatorio.
+
+- Los flujos de agua medidos aguas abajo del tapón, corresponden exclusivamente a la infiltración del macizo rocoso en sectores de fracturas ya previstas y mapeadas en los modelos hidrogeológicos .No se ha detectado flujo de agua proveniente de la interface entre la obturación y el macizo rocoso.
+
+- Las variaciones relevantes y medibles en el caudal del río de Las Taguas, desde su punto de confluencia en LA-8, están relacionadas principalmente a años hidrológicos de distinta característica y no al desarrollo del túnel ni a su posterior obturación.
+
+
+- La obturación del túnel Marcelo es un mecanismo eficiente para la contención del agua que drenaría a túnel abierto, manteniendo caudales residuales (\~5 L/s) de aproximadamente un 25% de los permitidos por La Autoridad (20 L/s) , los cuales no se han visto afectados ni por variaciones en la presión hidrostática aguas arriba del tapón ni por variaciones en el caudal del arroyo Turbio. Estos caudales residuales se deben exclusivamente a zonas de infiltración preferencial del macizo rocoso en los 255 m desde el final del tapón hasta el portal del túnel.

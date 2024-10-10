@@ -1,12 +1,11 @@
+
 ## Introducción
 
+El Túnel Marcelo, construido originalmente para transportar mineral desde Pascua-Lama a una planta de procesamiento, fue suspendido en 2013 junto con el proyecto. Entre 2013 y 2017, el agua descargada desde el túnel hacia el río Turbio, con un caudal de hasta 250 L/s, presentaba un pH bajo y altos niveles de sólidos disueltos y metales. Para mitigar el impacto, se implementó un tratamiento con cal desde 2011. En 2017, se instaló un tapón de hormigón en el túnel, y 12 piezómetros junto con tres tuberías de descarga para controlar la presión. El tratamiento del agua continuó hasta 2018, cuando se cerraron las válvulas, elevando el nivel freático detrás del tapón.
 
-El presente documento ha sido elaborado por solicitud de BEASA, en el marco de un requerimiento realizado a BEASA por el Ministerio de Minería del Gobierno de San Juan (La Autoridad). En dicho requerimiento, La Autoridad solicita a BEASA lo siguiente:
+En los meses posteriores al cierre, los caudales del río Turbio aumentaron. Los modelos hidrogeológicos desarrollados por SRK entre 2013 y 2016 y un análisis posterior de Piteau en 2018 predijeron que, una vez estabilizadas las cargas hidráulicas, el túnel podría liberar entre 15 y 30 L/s de forma permanente. Piteau modeló diferentes escenarios de descarga y concluyó que no habría un impacto significativo en la calidad del agua del río Las Taguas, manteniéndose dentro de los valores de referencia en las estaciones de monitoreo SW-9 y LA-16.
 
-- La entrega, por parte de BEASA, de datos actualizados sobre el monitoreo de la calidad del agua, a fin de evaluar el impacto sobre la calidad del agua del río Las Taguas que ejerce el Túnel Marcelo (localizado dentro del Proyecto Lama de BEASA).\
-
-- La verificación, a partir de los datos de monitoreo disponibles actualmente, de las predicciones del modelo presentadas en un memorando de Piteau Associates de marzo de 2018, según el cual el cierre del Túnel Marcelo con un tapón y el cese del tratamiento del agua en la boca del Túnel no implicarían un impacto significativo en la calidad del agua del río Las Taguas. \
-
+Este documento fue solicitado por Barrick Exploration Argentina S.A. (BEASA) en respuesta a un requerimiento del Ministerio de Minería de San Juan, recibido el 13 de septiembre de 2022. El pedido incluye dos puntos: 1) la entrega de datos actualizados sobre el monitoreo de la calidad del agua para evaluar el impacto del Túnel Marcelo en el río Las Taguas, y 2) la verificación de las predicciones del modelo presentado por Piteau Associates en 2018, que indicaba que el cierre del túnel con un tapón y el cese del tratamiento no afectarían significativamente la calidad del agua del río Las Taguas.
 
 ### Organización, Alcances y Objetivos
 
@@ -16,30 +15,34 @@ El capítulo [-@sec-INTEG] presenta una revisión de la integridad estructural d
 
 Los capítulos [-@sec-QUAL] y [-@sec-FLOW] se enfocan en el análisis de los datos disponibles de calidad del agua obtenidos en estaciones de monitoreo de agua superficial y subterránea aguas arriba y aguas abajo de la obturación, que se detallan en la sección [-@sec-SYSLOC]. El objetivo de estos capítulos consiste en evaluar el desempeño en términos de su impacto en los parámetros de calidad de agua aguas arriba y aguas abajo de la obturación, y poder correlacionar los desvíos respecto de la línea base con eventos climáticos, operacionales o de mantenimiento de la obturación.
 
-
-
 ### Documentos de referencia
 
 Los siguientes documentos han sido utilizados como referencia para la elaboración del presente informe:
 
-- [Reporte de Diseño Ejecutivo Tapón, SRK Consulting](refs/BEASA12210-2211-C-RP-0018-5.pdf)\
-- [Informe Sostenimiento 20180712 Exp 414-657-B-04, Barrick](refs/20180712 Exp 414-657-B-04.pdf)\
-- [Marcelo Tunnel Inspection, Golder](refs/20180320 Inspection Tunnel Golder Version English.pdf)\
-- [Reporte Obturacion Tunel Marcelo #1, Mejibar](refs/20190321_Mejibar.pdf)\
-- [Reporte Obturacion Tunel Marcelo #2,Mejibar](refs/20191022_Mejibar.pdf)\
-- [Reporte Obturacion Tunel Marcelo #3, Mejibar](refs/20210805_Mejibar.pdf)\
-- [Reporte Obturacion Tunel Marcelo #4, Mejibar](refs/20221220_Mejibar.pdf)\
-- [Reporte Obturacion Tunel Marcelo #5, Mejibar](refs/20231127_Mejibar.pdf)\
-- [Evaluación actualizada, túnel Marcelo, calidad de agua](refs/4747TM03-Túnel_Marcelo_Nota_Tecnica_ES_20221027.pdf)\
-- [Estimación de caudales de infiltración al túnel Marcelo, SRK Consulting](refs/52-2040-06-94-0.pdf)\
-- [Revisión del contexto hidrogeológico del túnel,SRK Consulting](refs/BEASA12210-2211-C-RP-0003-A.pdf)\
-- [Informe de monitoreo de calidad de agua, IDIH](refs/Calidad_Agua_LAMA_2012-2023-final.pdf)\
-- [Plan de acción de emergencia y desvío de ríos](refs/20170904 Exp 414-657-B-04.pdf)\
-- [Cédula: suspensión provisoria del tratamiento con cal del agua del túnel](refs/20190408-1100-5074-B12_Cond_109.pdf)\
-- [Respuesta a Cédula de suspensión provisoria del tratamiento con cal del agua del túnel](refs/20190410 exp 1100-0504-B-12.pdf)\
-- [Respuesta a requerimiento y presentación de informe de Pitteau](refs/20221027 exp 414-657.pdf)\
-- [Respuesta a requerimientos de la Comisión Interdisciplinaria Evaluadora Ambiental](refs/20230130 1404 BEASA 414-0657.pdf)\
-- [Informe Cierre de Valvulas Tunel Marcelo](refs/20180418 Exp 1100-0504-B-12.pdf)\
+-   [Reporte de Diseño Ejecutivo Tapón, SRK Consulting](refs/BEASA12210-2211-C-RP-0018-5.pdf){target="_blank"} [@srkconsulting2016]
+-   [Informe Sostenimiento 20180712 Exp 414-657-B-04, Barrick](refs/20180712%20Exp%20414-657-B-04.pdf){target="_blank"}
+-   [Marcelo Tunnel Inspection, Golder](refs/20180320%20Inspection%20Tunnel%20Golder%20Version%20English.pdf){target="_blank"} [@golderassociates2018]
+-   [Reporte Obturacion Tunel Marcelo #1, Mejibar](refs/20190321_Mejibar.pdf){target="_blank"}
+-   [Reporte Obturacion Tunel Marcelo #2,Mejibar](refs/20191022_Mejibar.pdf){target="_blank"}
+-   [Reporte Obturacion Tunel Marcelo #3, Mejibar](refs/20210805_Mejibar.pdf){target="_blank"}
+-   [Reporte Obturacion Tunel Marcelo #4, Mejibar](refs/20221220_Mejibar.pdf){target="_blank"}
+-   [Reporte Obturacion Tunel Marcelo #5, Mejibar](refs/20231127_Mejibar.pdf){target="_blank"}
+-   [Evaluación actualizada, túnel Marcelo, calidad de agua](refs/4747TM03-Túnel_Marcelo_Nota_Tecnica_ES_20221027.pdf){target="_blank"} [@piteauassociates2022]
+-   [Estimación de caudales de infiltración al túnel Marcelo, SRK Consulting](refs/52-2040-06-94-0.pdf){target="_blank"}
+-   [Revisión del contexto hidrogeológico del túnel,SRK Consulting](refs/BEASA12210-2211-C-RP-0003-A.pdf){target="_blank"}
+-   [Informe de monitoreo de calidad de agua, IDIH](refs/Calidad_Agua_LAMA_2012-2023-final.pdf){target="_blank"} [@idih2024]
+-   [Plan de acción de emergencia y desvío de ríos](refs/20170904%20Exp%20414-657-B-04.pdf){target="_blank"}
+-   [Cédula: suspensión provisoria del tratamiento con cal del agua del túnel](refs/20190408-1100-5074-B12_Cond_109.pdf){target="_blank"}
+-   [Respuesta a Cédula de suspensión provisoria del tratamiento con cal del agua del túnel](refs/20190410%20exp%201100-0504-B-12.pdf){target="_blank"}
+-   [Respuesta a requerimiento y presentación de informe de Pitteau](refs/20221027%20exp%20414-657.pdf){target="_blank"}
+-   [Respuesta a requerimientos de la Comisión Interdisciplinaria Evaluadora Ambiental](refs/20230130%201404%20BEASA%20414-0657.pdf){target="_blank"}
+-   [Informe Cierre de Valvulas Tunel Marcelo](refs/20180418%20Exp%201100-0504-B-12.pdf){target="_blank"} [@beasa] 
 
 
+### Aplicación Web de Consulta de Datos
 
+Los gráficos de series temporales presentados en este informe fueron obtenidos mediante una aplicación web desarrollada en lenguaje R utilizando el framework Shiny. La aplicación de base de datos interactúa directamente con una base de datos extensa mantenida por Barrick, que contiene aproximadamente 900,000 registros de datos de calidad de agua recopilados desde 2006 hasta septiembre de 2024. Estos datos provienen de 21 estaciones de monitoreo de agua superficial y 8 estaciones de agua subterránea, registrando concentraciones parciales y totales de unos 110 parámetros, incluyendo caudales, niveles de pH, presiones y otros indicadores fisicoquímicos relevantes. La implementación en shinyapps.io permite una integración eficiente con la base de datos y proporciona una plataforma escalable para el análisis en tiempo real del desempeño de la obturación hidráulica en el Túnel Marcelo. 
+
+La aplicación procesa los datos de monitoreo de Barrick en tiempo real, aplicando algoritmos avanzados para el análisis de series temporales. Esto incluye el cálculo de medias móviles para identificar tendencias subyacentes en los datos, la detección de valores atípicos basada en rangos intercuartílicos para asegurar la integridad de las observaciones, y la normalización de los datos mediante el cálculo de la carga metálica, obtenida como el producto de las concentraciones por los caudales. Estas metodologías permiten un análisis estadístico riguroso de los parámetros monitoreados, esencial para evaluar con precisión la eficacia y el impacto de las medidas implementadas en el túnel.
+
+La aplicacion de análisis de datos de desempeño de la obturación hidráulica en el Túnel Marcelo se encuentra disponible en el siguiente enlace: [https://averri.shinyapps.io/ARMA8U0/](https://averri.shinyapps.io/ARMA8U0/){target="_blank"}.
