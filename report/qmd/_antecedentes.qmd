@@ -5,11 +5,7 @@ El objetivo de esta sección será identificar los parámetros fundamentales de 
 
 ### Diseño Hidráulico
 
-En diciembre de 2013, SRK construyó un modelo numérico tridimensional con el que estimó flujos y efectuó predicciones para el dimensionamiento, cálculo y diseño conceptual de estructuras de cierre. Durante el diseño conceptual se actualizó el análisis para evaluar los efectos de la obturación del túnel sobre el macizo rocoso.[^1]
-
-[^1]: Nuevamente se modeló la cuenca pero en esta oportunidad se representó el túnel obturado el cual funciona como un conducto a presión, captando agua del macizo en la parte alta de la cuenca y alimentando el macizo en la zona cercana al Tapón.
-
-Con relación a los caudales esperables en el portal, el modelo hidrogeológico predijo flujos de infiltración preferencial aguas abajo del tapón, comprendidos entre 20 y 30 l/s como valor máximo. Este valor se ve reflejado en el Informe Cierre de Valvulas Tunel Marcelo [@beasa] 
+En diciembre de 2013, SRK construyó un modelo numérico tridimensional con el que estimó flujos y efectuó predicciones para el dimensionamiento, cálculo y diseño conceptual de ua obturación de hormigón. Durante el diseño conceptual se actualizó el análisis hidrogeológico para evaluar los efectos de la obturación del túnel sobre el macizo rocoso. En esta ocasión, nuevamente se modeló la cuenca pero en esta oportunidad se representó el túnel obturado el cual funciona como un conducto a presión, captando agua del macizo en la parte alta de la cuenca y alimentando el macizo en la zona cercana al Tapón. El modelo hidrogeológico predijo flujos de infiltración preferencial aguas abajo del tapón, comprendidos entre 20 y 30 l/s como valor máximo. Este valor se ve reflejado en el Informe Cierre de Valvulas Tunel Marcelo [@beasa] 
 
 Respecto a las presiones hidrostáticas, los resultados del análisis predijeron que la obturación deberá soportar una presión estática de agua cercana a los 72 m.c.a.[^2]. El Tapón fue diseñado con una presión hidrostática de servicio media de 80 m.c.a y el análisis de confiabilidad (carga de falla) reportó un factor de seguridad cercano a 3.1 para la carga estática, equivalente a una carga última de diseño cercana a los 240 m.c.a.
 

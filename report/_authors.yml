@@ -1,14 +1,26 @@
+affiliations:
+  - id: srk
+    name: SRK Consulting
+
 author:
   - name: Alejandro Verri Kozlowski
     email: averri@srk.com.ar
+    affiliation: srk
+    role: Corporate Consultant (Earthquake Engineering)
     attributes:
       corresponding: true
+
   - name: Fermín Garate
     email: fgarate@srk.com.ar
+    affiliation: srk
+    role: Principal Consultant (Structural Engineering)
     attributes:
       corresponding: true
+
   - name: Camilo De Los Hoyos
-    email: averri@fi.uba.ar
+    email: cdeloshoyos@srk.com.ar
+    affiliation: srk
+    role: Principal Consultant (Geochemistry)
     attributes:
       corresponding: true
     

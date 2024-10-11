@@ -98,10 +98,6 @@ Incluso el periodo de máximo caudal en el túnel, \~200-250 L/s entre diciembre
 ### Resumen
 
 
-- Las presiones hidrostáticas máximas registradas fuero previstas con anterioridad y no han presentado variaciones significativas desde el cierre de válvulas. Luego, el sistema de obturación funciona de acuerdo a lo previsto
-
-- El plan de monitoreo implementado por BEASA ha permitido validar los parámetros de diseño y los rangos de presiones y caudales previstos por los modelos hidrogeológicos y ha cunplido satisfactoriamente con los objetivos requeridos para la obturación. El manteniento futuro de dicho plan no es mandatorio.
-
 - Los flujos de agua medidos aguas abajo del tapón, corresponden exclusivamente a la infiltración del macizo rocoso en sectores de fracturas ya previstas y mapeadas en los modelos hidrogeológicos .No se ha detectado flujo de agua proveniente de la interface entre la obturación y el macizo rocoso.
 
 - Las variaciones relevantes y medibles en el caudal del río de Las Taguas, desde su punto de confluencia en LA-8, están relacionadas principalmente a años hidrológicos de distinta característica y no al desarrollo del túnel ni a su posterior obturación.
