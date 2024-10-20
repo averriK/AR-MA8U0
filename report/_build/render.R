@@ -15,11 +15,14 @@ source("_build/preRender.R")
 # .decode(language="EN")
 
 
-.buildYAML(output_format=c("html","docx"),output_dir=publishFolder)
-quarto::quarto_render(input = "index.qmd" )
+.buildYAML(
+    language = "ES",
+    output_format = c("html", "docx"),
+    output_dir = publishFolder
+)
+
+quarto::quarto_render(input = "index.qmd")
 
 source("_build/postRender.R")
 
-system2("netlify", args = c("deploy --prod"))
-
-
+# system2("netlify", args = c("deploy --prod"))

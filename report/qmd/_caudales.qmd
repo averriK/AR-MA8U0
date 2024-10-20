@@ -19,7 +19,7 @@ El objetivo de este capítulo consiste en evaluar el desempeño de la obturació
 
 Algunos cursos de agua en los sistemas Canito y Turbio fueron afectados por desvíos relacionados a obras de manejo de agua, lo cual se vio reflejado en su registro de monitoreo. Las modificaciones de los cursos de agua en las cuencas de Canito y Turbio comenzaron en enero de 2014 y estuvieron vigentes hasta noviembre de 2020. Un resumen de la configuración de los sistemas de conducción de agua en las cuencas de Canito y Turbio, antes y después de noviembre/diciembre de 2020, puede encontrarse en el informe del IDIH , el cual sintetiza los resultados del monitoreo de calidad de agua en el proyecto Lama desde enero de 2012 hasta diciembre de 2023 [^_caudales-1].
 
-[^_caudales-1]: El cambio más relevante de este periodo está relacionado a la tubería de desvío TD3, la cual condujo agua del arroyo Turbio, brazo Canito Norte y del drenado del túnel entre enero de 2014 y noviembre/diciembre de 2020, descargando en un punto aguas abajo de LA-8. En noviembre/diciembre de 2020, el caudal de la TD3 se desvió hacia la TD4, sumándose al caudal de la cuenca de Canito.
+[^_caudales-1]: El cambio más relevante de este periodo está relacionado a la tubería de desvío TD3, la cual condujo agua del arroyo Turbio, brazo Canito Norte y del drenado del túnel entre enero de 2014 y noviembre/diciembre de 2020, descargando en un punto aguas abajo de **LA-8**. En noviembre/diciembre de 2020, el caudal de la TD3 se desvió hacia la TD4, sumándose al caudal de la cuenca de Canito.
 
 ![Esquema Actual del Sistema de manejo de Aguas a partir de diciembre 2020. Fuente: IDIH (2024), 2024](images/aguas.png)
 
@@ -47,24 +47,82 @@ Las siguientes viñetas son una breve reseña de las fechas aproximadas de event
 
 ### Caudales registrados en LA-1A, MAR-1 y TUN-1
 
-El caudal del arroyo Turbio en este tramo disminuyó durante la excavación del túnel debido al “efecto dren” del túnel, el cual drenó una parte importante del caudal superficial y subálveo del arroyo, así como el agua de almacenamiento del acuífero de fracturas del macizo rocoso. El caudal en LA-1A es altamente variable durante el día debido a que este arroyo tiene una alta dependencia de los deshielos en su tramo superior, por lo que los puntos en el gráfico representan un promedio diario. El caudal en este punto se mantuvo relativamente bajo, con registros promedio entre 5 y 20 L/s, a excepción de un evento con caudales promedio de hasta 170 L/s entre noviembre de 2015 y enero de 2016, debido a precipitaciones intensas en invierno de 2015 registradas en la estación de campamento Barreales en Pascua. Luego del cierre de las válvulas del tapón del túnel en enero de 2018, el caudal se incrementó fuertemente por recuperación del caudal drenado y luego un decrecimiento más suave hasta caudales promedio en el orden de 30 L/s. El caudal en MAR-1 evolucionó en picos que se daban cuando la excavación del túnel encontraba una zona de mayor conductividad hidráulica (e.g. zona de falla o de mayor fracturamiento) y valles que se daban cuando dicho caudal se drenaba y disminuía el nivel piezométrico. El caudal en TUN-1 tuvo casi la misma serie que el caudal en MAR-1. Los caudales en el portal del túnel, registrados actualmente en MAR-1, disminuyeron súbitamente luego del cierre de válvulas del tapón, con un valor máximo de 13 L/s inmediatamente luego del cierre y una estabilización en torno a 5 L/s.
+El caudal del arroyo Turbio en este tramo disminuyó durante la excavación del túnel debido al “efecto dren” del túnel, el cual drenó una parte importante del caudal superficial y subálveo del arroyo, así como el agua de almacenamiento del acuífero de fracturas del macizo rocoso. El caudal en LA-1A es altamente variable durante el día debido a que este arroyo tiene una alta dependencia de los deshielos en su tramo superior, por lo que los puntos en el gráfico representan un promedio diario. El caudal en este punto se mantuvo relativamente bajo, con registros promedio entre 5 y 20 L/s, a excepción de un evento con caudales promedio de hasta 170 L/s entre noviembre de 2015 y enero de 2016, debido a precipitaciones intensas en invierno de 2015 registradas en la estación de campamento Barreales en Pascua. Luego del cierre de las válvulas del tapón del túnel en enero de 2018, el caudal se incrementó fuertemente por recuperación del caudal drenado y luego un decrecimiento más suave hasta caudales promedio en el orden de 30 L/s. 
+
+El caudal en MAR-1 evolucionó en picos que se daban cuando la excavación del túnel encontraba una zona de mayor conductividad hidráulica (e.g. zona de falla o de mayor fracturamiento) y valles que se daban cuando dicho caudal se drenaba y disminuía el nivel piezométrico. El caudal en TUN-1 tuvo casi la misma serie que el caudal en MAR-1. Los caudales en el portal del túnel, registrados actualmente en MAR-1, disminuyeron súbitamente luego del cierre de válvulas del tapón, con un valor máximo de 13 L/s inmediatamente luego del cierre y una estabilización en torno a 5 L/s. La figura siguiente, presenta series temporales de caudales (en L/s)  registradas desde el año 2010 a la fecha.[^_caudales-2] [enlace](https://averri.shinyapps.io/ARMA8U0/){target="_blank"}
+
+
+::: {.content-hidden when-format="“docx”"}
+
+```{r include=knitr::is_html_output()}
+chemical_name <- "Flujo"
+sys_loc_code <- c("LA-1A","MAR-1","TUN-1")
+matrix_code = "SW"
+year_min <- 2010
+year_max <- 2024
+fraction <- "T"
+mass <- "q"
+
+plot.type <- c("point","average")
+time_width <- 30
+source("qmd/fig/TS_day.R")
+
+PLOT
+```
+:::
 
 ### Caudales registrados en LA-8
 
-El caudal estuvo en baja desde los primeros registros y se mantuvo en valores relativamente bajos (\~70-100 L/s) entre 2014 y fines de 2020, periodo en el cual LA-8 no recibió agua de la cuenca del Turbio más agua del túnel. El caudal presenta una tendencia decreciente desde el cierre de las válvulas y se encuentra en tendencia creciente desde la recepción de agua del arroyo Turbio (más el caudal residual del túnel, \~5 L/s), con la mayor parte de los valores en el rango 100-175 L/s, similares a los medidos al principio del registro. Se registraron los eventos de alto caudal relacionados a las precipitaciones nivales durante los inviernos de 2015 y 2017.
+El caudal estuvo en baja desde los primeros registros y se mantuvo en valores relativamente bajos (\~70-100 L/s) entre 2014 y fines de 2020, periodo en el cual LA-8 no recibió agua de la cuenca del Turbio más agua del túnel. El caudal presenta una tendencia decreciente desde el cierre de las válvulas y se encuentra en tendencia creciente desde la recepción de agua del arroyo Turbio (más el caudal residual del túnel, \~5 L/s), con la mayor parte de los valores en el rango 100-175 L/s, similares a los medidos al principio del registro. Se registraron los eventos de alto caudal relacionados a las precipitaciones nivales durante los inviernos de 2015 y 2017. La figura siguiente, presenta series temporales de caudales (en L/s)  registradas desde el año 2010 a la fecha.[^_caudales-2]
+
+::: {.content-hidden when-format="“docx”"}
+
+```{r include=knitr::is_html_output()}
+chemical_name <- "Flujo"
+sys_loc_code <- c("LA-8")
+matrix_code = "SW"
+year_min <- 2010
+year_max <- 2024
+fraction <- "T"
+mass <- "q"
+
+plot.type <- c("point","average")
+time_width <- 30
+source("qmd/fig/TS_day.R")
+
+PLOT
+
+```
+:::
+
 
 ### Caudales registrados en LA-16 y SW-9
 
-Los caudales en SW-9 y LA-16 presentan series temporales de caudal muy similares, tanto en valores de caudal como en evolución. Se registraron los picos de alto caudal (en el orden de 3000-3500 L/s) relacionados a los inviernos de 2015 y 2017, y uno intermedio entre octubre y diciembre de 2016. Los caudales se mantuvieron relativamente altos (\~1000-1500 L/s) luego del cierre de las válvulas en enero de 2018 y mostraron una tendencia decreciente desde aproximadamente septiembre de 2019, hasta un rango relativamente amplio de 350-900 L/s, similar al registrado previamente a la apertura del túnel, aunque sin una relación directa con dicho cierre.
+Los caudales en SW-9 y LA-16 presentan series temporales de caudal muy similares, tanto en valores de caudal como en evolución. Se registraron los picos de alto caudal (en el orden de 3000-3500 L/s) relacionados a los inviernos de 2015 y 2017, y uno intermedio entre octubre y diciembre de 2016. Los caudales se mantuvieron relativamente altos (\~1000-1500 L/s) luego del cierre de las válvulas en enero de 2018 y mostraron una tendencia decreciente desde aproximadamente septiembre de 2019, hasta un rango relativamente amplio de 350-900 L/s, similar al registrado previamente a la apertura del túnel, aunque sin una relación directa con dicho cierre. La figura siguiente, presenta series temporales de caudales (en L/s)  registradas desde el año 2010 a la fecha.[^_caudales-2]
+
 
 ::: {.content-hidden when-format="“docx”"}
-{{< include qmd/fig/_flow.qmd >}}
+
+```{r include=knitr::is_html_output()}
+chemical_name <- "Flujo"
+sys_loc_code <- c("LA-16","SW-9")
+matrix_code = "SW"
+year_min <- 2010
+year_max <- 2024
+fraction <- "T"
+mass <- "q"
+
+plot.type <- c("point","average")
+time_width <- 30
+source("qmd/fig/TS_day.R")
+
+PLOT
+
+```
 :::
 
-La figura anterior, presenta series temporales de caudales (en L/s) para diferentes estaciones de monitoreo, registradas desde el año 2010 a la fecha.[^_caudales-2]
 
-[^_caudales-2]: Las series temporales fueron obtenidas a partir de una aplicación de base de datos de monitoreo implementada para el proyecto Lama. Otras visualizaciones basadas en eventos estacionales, mensuales o anuales, pueden obtenerse en el siguiente [enlace](https://averri.shinyapps.io/ARMA8U0/){target="_blank"}
-
+[^_caudales-2]: Las series temporales fueron obtenidas a partir de una aplicación de base de datos de monitoreo implementada para el proyecto Lama. Otras visualizaciones basadas en eventos estacionales, mensuales o anuales, pueden obtenerse en el siguiente  [enlace](https://averri.shinyapps.io/ARMA8U0/){target="_blank"}
 
 ### Impacto en los caudales del Túnel
 
@@ -75,8 +133,6 @@ En el sector del túnel, la excavación del túnel Marcelo por debajo del nivel 
 El caudal residual en MAR-1 se mantuvo en torno a 5-6 L/s desde mayo de 2018 y no registró variaciones relevantes, a pesar de las variaciones anuales (en el orden de 7 a 10 m) en la altura piezométrica correspondiente a la solera del túnel obturado en la cual se registraron máximos en marzo-abril de cada año. Tampoco se manifestaron cambios relacionados con las variaciones de caudal del arroyo Turbio.
 
 Los caudales medidos en el portal desde la obturación del túnel en 2018 alcanzaron un valor máximo de 13 l/s observado en las semanas posteriores durante el estado transitorio. Este valor es menor al esperado por el modelo hidrogeológicos más conservadores que estimaron una cota de 30 l/s. Una vez estabilizado el sistema, las mediciones de los caudales salientes del túnel disminuyeron a un rango entre 3.8 y 5.1 l/s. 
-
-
 
 
 ### Impacto en los caudales del arroyo Turbio

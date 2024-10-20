@@ -13,7 +13,12 @@ Respecto a las presiones hidrostáticas, los resultados del análisis predijeron
 
 ### Diseño Sísmico
 
-El sitio del proyecto Pascua-Lama está expuesto a la ocurrencia de terremotos de moderada intensidad. El sismo máximo de diseño adoptado para el proyecto tiene una aceleración máxima del terreno PGA [^3] cercana a 0.75 g[^4]. La intensidad PGA del sismo de diseño se obtuvo a partir de un estudio simplificado de peligrosidad sísmica probabilístico hecho para el sitio del proyecto [@srkconsulting2016]. La intensidad sísmica de diseño se estimó que tiene una probabilidad anual de ser excedida comprendida entre 1% y 2% en 50 años de exposición equivalentes a un período de retorno comprendido entre 1:2,500 años y 1:5,000 años[^5].
+El sitio del proyecto Pascua-Lama está expuesto a la ocurrencia de terremotos de moderada intensidad. El sismo máximo de diseño adoptado para el proyecto tiene una aceleración máxima del terreno PGA [^3] cercana a 0.75 g[^4]. La intensidad PGA del sismo máximo de diseño se obtuvo a partir de un estudio simplificado de peligrosidad sísmica probabilístico hecho para el sitio del proyecto [@srkconsulting2016]. La intensidad sísmica de diseño se estimó que tiene una probabilidad anual de ser excedida comprendida entre 1% y 2% en 50 años de exposición equivalentes a un período de retorno comprendido entre 1:2,500 años y 1:5,000 años[^5].
+::: {.content-hidden when-format=“docx”}
+La figura siguiente presenta un mapa de los eventos sísmicos de la región en un área de 250 km a la redonda del sitio del proyecto Pascua-Lama. 
+<iframe src="html/Barrick_Folium_InteractiveMap_V10.html" width="100%" height="600px"></iframe>
+:::
+
 
 [^3]: PGA: Peak-Ground Acceleration
 
@@ -26,6 +31,9 @@ La acción sísmica se traduce en un movimiento brusco del agua retenida aguas a
 [^6]: PGV: Peak Ground Velocity
 
 Las velocidades pico PGV y presiones hidrodinámicas asociadas al golpe de ariete, se estimaron mediante un modelo de aprendizaje de máquina (machine-learning) calibrado para los sismos de Pascua-Lama [@Verri2023a]. Para el sismo de diseño, el modelo predijo una velocidad PGV del orden de 0.8 m/s y una sobrepresión hidrodinámica comprendida entre 120 y 140 m.c.a. Para esta presión hidrodinámica *máxima de diseño*, el análisis de confiabilidad del tapón reportó un factor de seguridad a la falla cercano a 1.40
+
+
+
 
 ### Diseño geotécnico
 
