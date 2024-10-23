@@ -25,4 +25,4 @@ quarto::quarto_render(input = "index.qmd")
 
 source("_build/postRender.R")
 
-# system2("netlify", args = c("deploy --prod"))
+system2("netlify", args = c("deploy --prod"))

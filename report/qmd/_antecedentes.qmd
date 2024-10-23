@@ -14,9 +14,11 @@ Respecto a las presiones hidrostáticas, los resultados del análisis predijeron
 ### Diseño Sísmico
 
 El sitio del proyecto Pascua-Lama está expuesto a la ocurrencia de terremotos de moderada intensidad. El sismo máximo de diseño adoptado para el proyecto tiene una aceleración máxima del terreno PGA [^3] cercana a 0.75 g[^4]. La intensidad PGA del sismo máximo de diseño se obtuvo a partir de un estudio simplificado de peligrosidad sísmica probabilístico hecho para el sitio del proyecto [@srkconsulting2016]. La intensidad sísmica de diseño se estimó que tiene una probabilidad anual de ser excedida comprendida entre 1% y 2% en 50 años de exposición equivalentes a un período de retorno comprendido entre 1:2,500 años y 1:5,000 años[^5].
+
+
 ::: {.content-hidden when-format=“docx”}
-La figura siguiente presenta un mapa de los eventos sísmicos de la región en un área de 250 km a la redonda del sitio del proyecto Pascua-Lama. 
-<iframe src="html/Barrick_Folium_InteractiveMap_V10.html" width="100%" height="600px"></iframe>
+La figura siguiente presenta un mapa de los eventos sísmicos desde 1900 hasta la fecha de la región asociada al sitio del proyecto Pascua-Lama. 
+<iframe src="data/map.html" width="100%" height="600px"></iframe>
 :::
 
 
