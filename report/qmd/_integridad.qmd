@@ -21,15 +21,15 @@ Barrick realizó estas inspecciones en forma periódica, habiéndose realizado 8
 -   En Septiembre de 2024 se volvió a realizar esta inspección, se verifica que las condiciones no han cambiado con respecto al 2023.
 -   Se reporta finalmente que el sistema de Obturación del Túnel Marcelo se encuentra funcionando de manera adecuada y efectiva de acuerdo a los objetivos previstos en etapa de proyecto.
 
-[^_integridad-1]: [Reporte Obturacion Tunel Marcelo #1, Mejibar](refs/20190321_Mejibar.pdf)
+[^_integridad-1]: [Reporte Obturacion Túnel Marcelo #1, Mejibar](refs/20190321_Mejibar.pdf)
 
-[^_integridad-2]: [Reporte Obturacion Tunel Marcelo #2,Mejibar](refs/20191022_Mejibar.pdf)
+[^_integridad-2]: [Reporte Obturacion Túnel Marcelo #2,Mejibar](refs/20191022_Mejibar.pdf)
 
-[^_integridad-3]: [Reporte Obturacion Tunel Marcelo #3, Mejibar](refs/20210805_Mejibar.pdf)
+[^_integridad-3]: [Reporte Obturacion Túnel Marcelo #3, Mejibar](refs/20210805_Mejibar.pdf)
 
-[^_integridad-4]: [Reporte Obturacion Tunel Marcelo #4, Mejibar](refs/20221220_Mejibar.pdf)
+[^_integridad-4]: [Reporte Obturacion Túnel Marcelo #4, Mejibar](refs/20221220_Mejibar.pdf)
 
-[^_integridad-5]: [Reporte Obturacion Tunel Marcelo #5, Mejibar](refs/20231127_Mejibar.pdf)
+[^_integridad-5]: [Reporte Obturacion Túnel Marcelo #5, Mejibar](refs/20231127_Mejibar.pdf)
 
 ### Niveles piezométricos
 

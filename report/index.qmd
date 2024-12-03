@@ -1,10 +1,31 @@
 ---
-params:
-  lang: ES
-  exportImages: true
-  background: white
 bibliography: "qmd/references.bib"
-css: styles.css
+title: Análisis del desempeño de la obturación del Túnel Marcelo
+subtitle: |-
+  Proyecto Lama, San Juan, Argentina.
+  Barrick Exploraciones Argentina S.A.
+abstract: ''
+author:
+  - name: Alejandro Verri Kozlowski
+    email: averri@srk.com.ar
+    affiliation: SRK Consulting (Argentina)
+    role: Corporate Consultant (Earthquake Engineering)
+    attributes:
+      corresponding: true
+
+  - name: Fermín Garate
+    email: fgarate@srk.com.ar
+    affiliation: SRK Consulting (Argentina)
+    role: Principal Consultant (Structural Engineering)
+    attributes:
+      corresponding: true
+
+  - name: Camilo De Los Hoyos
+    email: cdeloshoyos@srk.com.ar
+    affiliation: SRK Consulting (Argentina)
+    role: Principal Consultant (Geochemistry)
+    attributes:
+      corresponding: true
 ---
 
 
@@ -27,8 +48,6 @@ if(!knitr::is_html_output()){
 {{< include qmd/_introduccion.qmd  >}}
 
 {{< include qmd/_antecedentes.qmd  >}}
-
-
 
 {{< include qmd/_integridad.qmd  >}}
 

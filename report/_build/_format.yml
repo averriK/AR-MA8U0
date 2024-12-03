@@ -3,7 +3,7 @@ format:
     output-file: index.html
     theme: spacelab 
     toc: true
-    toc-depth: 4
+    toc-depth: 3
     toc-location: left
     number-sections: true
     mainfont: Arial
@@ -11,11 +11,10 @@ format:
     link-citations: true
     code-fold: true
     code-copy: true
-    css: styles.css
     citation-location: document #block,section,document, margin
     reference-location: margin ##block,section,document, margin
     grid: 
-      body-width: 900px
+      body-width: 1100px
       sidebar-width: 300px
       margin-width: 300px
       gutter-width: 1.5rem
@@ -37,17 +36,14 @@ format:
     history: true
     transition: fade  #
     showNotes: true
-    css: styles.css
+    css: 
     chalkboard: true
-
   docx: 
     output-file: index.docx
-    reference-doc: _build/styles.docx
   els-pdf: 
     output-file: index.pdf
     keep-tex: true
     journal:
-      name:  
       formatting: preprint # preprint, review, doubleblind
       model: 3p # 1p, 3p
       layout: onecolumn # onecolumn, twocolumn

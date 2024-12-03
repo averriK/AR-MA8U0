@@ -1,7 +1,4 @@
-library(gmdp)
-library(dsra)
-library(buildPlot)
-library(buildTable)
+library(smartReports)
 library(data.table)
 library(grid)
 library(png)
@@ -11,14 +8,11 @@ library(shinyWidgets)
 library(markdown)
 library(shinyjs)
 library(htmltools)
-
-library(data.table)
 library(readxl)
 library(highcharter)
 library(stringr)
 library(lubridate)
 library(zoo)
-
 
 .buildFigure <- function(PLOT,DELAY=0.3,imagesFolder="_var",params=list(background="white")){
   FILE <- tempfile(tmpdir = imagesFolder,pattern="fig",fileext=".png")

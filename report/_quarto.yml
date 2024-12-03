@@ -1,0 +1,54 @@
+project:
+  type: default
+  output-dir: _build
+engine: knitr
+jupyter: python3
+bibliography: ./qmd/references.bib
+link-citations: true
+colorlinks: true
+fontsize: 12pt
+citation: false
+appendix-cite-as: display
+google-scholar: false
+execute:
+  eval: true
+  echo: false
+  include: false
+  keep-md: false
+  freeze: false
+format:
+  html:
+    output-file: index.html
+    theme: spacelab
+    toc: true
+    toc-depth: 3
+    toc-location: left
+    number-sections: true
+    mainfont: Arial
+    fontsize: 12pt
+    link-citations: true
+    code-fold: true
+    code-copy: true
+    citation-location: document
+    reference-location: margin
+    grid:
+      body-width: 1100px
+      sidebar-width: 300px
+      margin-width: 300px
+      gutter-width: 1.5rem
+    css: ./_build/styles.css
+toc-title: Table of Contents
+crossref:
+  fig-title: Fig.
+  tbl-title: Table
+  eq-title: Equation
+  eq-prefix: eq.
+  tbl-prefix: tbl.
+  fig-prefix: fig.
+abstract: ''
+params:
+  background: white
+  render: none
+  ext: png
+  lang: EN
+

@@ -1,6 +1,6 @@
 ## Introducción
 
-El Túnel Marcelo, construido originalmente para transportar mineral desde Pascua-Lama a una planta de procesamiento, suspendió su construcción en 2013 en el marco de suspensión temporal del proyecto Lama. Entre 2013 y 2017, el agua descargada desde el túnel hacia el río Turbio, con un caudal de hasta 250 L/s, presentaba un pH bajo y altos niveles de sólidos disueltos y metales. Para mitigar el impacto se implementó un tratamiento con cal desde 2011. En 2017, se construyó una obra de obturación hidráulica en el túnel, compuesta por un tapón de hormigon, un sistema de válvulas, piezómetros y tuberías de descarga. El tratamiento del agua continuó hasta principios de 2019, cuando se cerraron las válvulas, elevando el nivel freático detrás del tapón.  
+El Túnel Marcelo, construido originalmente para transportar mineral desde Pascua-Lama a una planta de procesamiento, suspendió su construcción en 2013 en el marco de suspensión temporal del proyecto Lama. Entre 2013 y 2017, el agua descargada desde el túnel hacia el río Turbio, con un caudal de hasta 250 L/s, presentaba un pH bajo y altos niveles de sólidos disueltos y metales. Para mitigar el impacto se implementó un tratamiento con cal desde 2011. En 2017, se construyó una obra de obturación hidráulica en el túnel.  El tratamiento del agua continuó hasta principios de 2019, cuando se cerraron las válvulas, elevando el nivel freático detrás del tapón. La instalación incluyó un sistema de monitoreo de presiones y una instalación de válvulas y tuberías de by-pass para la descarga eventual del túnel.
 
 En los meses posteriores al cierre, los caudales del río Turbio aumentaron. Los modelos hidrogeológicos desarrollados por SRK entre 2013 y 2016 y un análisis posterior de Piteau en 2018 predijeron que, una vez estabilizadas las cargas hidráulicas, el túnel podría liberar entre 15 y 30 L/s de forma permanente. Piteau modeló diferentes escenarios de descarga y concluyó que no habría un impacto significativo en la calidad del agua del río Las Taguas, manteniéndose dentro de los valores de referencia en las estaciones de monitoreo SW-9 y LA-16.
 
@@ -22,11 +22,11 @@ Los siguientes documentos han sido utilizados como referencia para la elaboraci�
 -   [Reporte de Diseño Ejecutivo Tapón, SRK Consulting](refs/BEASA12210-2211-C-RP-0018-5.pdf){target="_blank"} [@srkconsulting2016]
 -   [Informe Sostenimiento 20180712 Exp 414-657-B-04, Barrick](refs/20180712%20Exp%20414-657-B-04.pdf){target="_blank"}
 -   [Marcelo Tunnel Inspection, Golder](refs/20180320%20Inspection%20Tunnel%20Golder%20Version%20English.pdf){target="_blank"} [@golderassociates2018]
--   [Reporte Obturacion Tunel Marcelo #1, Mejibar](refs/20190321_Mejibar.pdf){target="_blank"}
--   [Reporte Obturacion Tunel Marcelo #2,Mejibar](refs/20191022_Mejibar.pdf){target="_blank"}
--   [Reporte Obturacion Tunel Marcelo #3, Mejibar](refs/20210805_Mejibar.pdf){target="_blank"}
--   [Reporte Obturacion Tunel Marcelo #4, Mejibar](refs/20221220_Mejibar.pdf){target="_blank"}
--   [Reporte Obturacion Tunel Marcelo #5, Mejibar](refs/20231127_Mejibar.pdf){target="_blank"}
+-   [Reporte Obturacion Túnel Marcelo #1, Mejibar](refs/20190321_Mejibar.pdf){target="_blank"}
+-   [Reporte Obturacion Túnel Marcelo #2,Mejibar](refs/20191022_Mejibar.pdf){target="_blank"}
+-   [Reporte Obturacion Túnel Marcelo #3, Mejibar](refs/20210805_Mejibar.pdf){target="_blank"}
+-   [Reporte Obturacion Túnel Marcelo #4, Mejibar](refs/20221220_Mejibar.pdf){target="_blank"}
+-   [Reporte Obturacion Túnel Marcelo #5, Mejibar](refs/20231127_Mejibar.pdf){target="_blank"}
 -   [Evaluación actualizada, túnel Marcelo, calidad de agua](refs/4747TM03-Túnel_Marcelo_Nota_Tecnica_ES_20221027.pdf){target="_blank"} [@piteauassociates2022]
 -   [Estimación de caudales de infiltración al túnel Marcelo, SRK Consulting](refs/52-2040-06-94-0.pdf){target="_blank"}
 -   [Revisión del contexto hidrogeológico del túnel,SRK Consulting](refs/BEASA12210-2211-C-RP-0003-A.pdf){target="_blank"} [@srkconsulting2015]
@@ -36,7 +36,7 @@ Los siguientes documentos han sido utilizados como referencia para la elaboraci�
 -   [Respuesta a Cédula de suspensión provisoria del tratamiento con cal del agua del túnel](refs/20190410%20exp%201100-0504-B-12.pdf){target="_blank"}
 -   [Respuesta a requerimiento y presentación de informe de Pitteau](refs/20221027%20exp%20414-657.pdf){target="_blank"}
 -   [Respuesta a requerimientos de la Comisión Interdisciplinaria Evaluadora Ambiental](refs/20230130%201404%20BEASA%20414-0657.pdf){target="_blank"}
--   [Informe Cierre de Valvulas Tunel Marcelo](refs/20180418%20Exp%201100-0504-B-12.pdf){target="_blank"} [@beasa]
+-   [Informe Cierre de Valvulas Túnel Marcelo](refs/20180418%20Exp%201100-0504-B-12.pdf){target="_blank"} [@beasa]
 
 ### Aplicación Web de Consulta de Datos
 

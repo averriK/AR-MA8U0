@@ -58,7 +58,7 @@ data/
 client/
 report/.quarto/
 report/_publish/
-report/!support
+report/_build/
 
 
 # Local Netlify folder

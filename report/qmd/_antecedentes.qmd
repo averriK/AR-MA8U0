@@ -5,11 +5,16 @@ El objetivo de esta sección será identificar los parámetros fundamentales de 
 
 ### Diseño Hidráulico
 
-En diciembre de 2013, SRK construyó un modelo numérico tridimensional con el que estimó flujos y efectuó predicciones para el dimensionamiento, cálculo y diseño conceptual de ua obturación de hormigón. Durante el diseño conceptual se actualizó el análisis hidrogeológico para evaluar los efectos de la obturación del túnel sobre el macizo rocoso. En esta ocasión, nuevamente se modeló la cuenca pero en esta oportunidad se representó el túnel obturado el cual funciona como un conducto a presión, captando agua del macizo en la parte alta de la cuenca y alimentando el macizo en la zona cercana al Tapón. El modelo hidrogeológico predijo flujos de infiltración preferencial aguas abajo del tapón, comprendidos entre 20 y 30 l/s como valor máximo. Este valor se ve reflejado en el Informe Cierre de Valvulas Tunel Marcelo [@beasa] 
+En diciembre de 2013, SRK construyó un modelo numérico tridimensional con el que estimó flujos y efectuó predicciones para el dimensionamiento, cálculo y diseño conceptual de ua obturación de hormigón. Durante el diseño conceptual se actualizó el análisis hidrogeológico para evaluar los efectos de la obturación del túnel sobre el macizo rocoso. En esta ocasión, nuevamente se modeló la cuenca pero en esta oportunidad se representó el túnel obturado el cual funciona como un conducto a presión, captando agua del macizo en la parte alta de la cuenca y alimentando el macizo en la zona cercana al Tapón. El modelo hidrogeológico predijo flujos de infiltración preferencial aguas abajo del tapón, comprendidos entre 20 y 30 l/s como valor máximo. Este valor se ve reflejado en el Informe Cierre de Valvulas Túnel Marcelo [@beasa] 
 
-Respecto a las presiones hidrostáticas, los resultados del análisis predijeron que la obturación deberá soportar una presión estática de agua cercana a los 72 m.c.a.[^2]. El Tapón fue diseñado con una presión hidrostática de servicio media de 80 m.c.a y el análisis de confiabilidad (carga de falla) reportó un factor de seguridad cercano a 3.1 para la carga estática, equivalente a una carga última de diseño cercana a los 240 m.c.a.
 
-[^2]: m.c.a.: metros de columna de agua
+El sistema de monitoreo de presiones del tapón fue diseñado para registrar las variaciones de los niveles piezométricos **durante la etapa de llenado del túnel**, con el propósito de controlar que se las presiones máximas no superaban los valores máximos previstos en el diseño.
+
+
+Los resultados del modelo hidrogeológico, predijeron que la obturación podría soportar una presión estática de agua cercana a los 72 m.c.a.[^2] [-@srkconsulting2015]. El Tapón fue diseñado consecuentemente con una presión hidrostática de servicio media de 80 m.c.a y el análisis de confiabilidad (carga de falla) reportó un factor de seguridad cercano a 3.1 para la carga estática, equivalente a una carga última de diseño cercana a los 240 m.c.a.
+
+
+[^2]: m.c.a.: metros de columna de agua 
 
 ### Diseño Sísmico
 
